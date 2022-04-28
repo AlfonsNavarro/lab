@@ -38,7 +38,7 @@ nav-links:
     #Software: "web_page/pages/software.html"
     #Teaching: "web_page/pages/teaching.html"
     #News: "pages/news.html"
-    #Grants: "pages/grants.html"
+    Grants: "pages/grants.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
@@ -92,7 +92,7 @@ exclude:
   - README.md
   - CNAME
 
-created-by: Babji, Chetty
-creator-url: https://bchetty.com
+created-by: Alfons Navarro
+creator-url: https://alfonsnavarro.github.io
 
 theme: jekyll-theme-dinky

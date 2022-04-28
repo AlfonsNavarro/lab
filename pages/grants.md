@@ -3,16 +3,32 @@ layout: template1
 title: Grants
 ---
 
-## Current projects
+### Current projects
 
 
-## Previous projects
+### Previous projects
 
+<div class="jumbotron">
+    <p> 
 Characterization of piwiRNAs in lung embryonic stem cells and their role in non-small cell lung cancer.
+</p> 
 
-Project leader: Alfons Navarro
-Code: SAF2017-88606-P 
-Start date: 01/01/2018
-End date: 31/09/2021
+<table>
+	<tr>
+		<td>Project leader:</td> <td>Alfons Navarro</td>
+	</tr>
+	<tr>
+		<td>Code: </td> <td>SAF2017-88606-P </td>
+		</tr>
+	<tr>
+		<td>Start date: </td> <td>01/01/2018 </td>
+		</tr>
+	<tr>
+		<td>End date: </td> <td>31/09/2021</td>
+	</tr>
+</table>
+    ![logo ministeri]({{site.baseurl}}/assets/logos/ministeri.jpg){:height="20%" width="20%"}
+</div>
 
-![logo ministeri]({{site.base.url}}/assets/logos/ministeri.jpg){:height="20%" width="20%"}
+
+
