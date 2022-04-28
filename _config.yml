@@ -11,7 +11,7 @@ gems:
 #baseurl: "/"
 url: "https://alfonsnavarro.github.io/navarrolab"
 enforce_ssl: ""
-baseurl: ""
+baseurl: "/"
 
 # Title of website
 title: Molecular Oncology and Embryology lab

@@ -27,7 +27,7 @@ title: people
 
 #### PhD Alumni
 
-- [Zhijin Wu](http://www.stat.brown.edu/zwu/) 2005 (Brown University, Associate Professor)
+ 
 
 
 
