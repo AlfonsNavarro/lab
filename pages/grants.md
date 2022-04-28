@@ -32,5 +32,29 @@ Characterization of piwiRNAs in lung embryonic stem cells and their role in non-
       </a>
 </div>
 
+<div class="jumbotron">
+    <p> 
+Potencial clínico de los exosomas derivados de la vena que drena del tumor en pacientes quirúrgicos de cáncer de pulmón en la identificación de pacientes con alto riesgo de recaída. 
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td> Alfons Navarro</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td> <td> AECC-2017 </td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td> <td> 01/02/2018 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td> <td> 01/02/2019</td>
+	</tr>
+</table>
+    <a href="https://www.contraelcancer.es/es/sobre-nosotros/donde-estamos/sede-barcelona">
+	<img data-u="image" src="../assets/logos/AECC.png"/>
+      </a>
+</div>
+
 
 
