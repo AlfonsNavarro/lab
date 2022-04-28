@@ -3,17 +3,17 @@ layout: template1
 title: Grants
 ---
 
-#### Current projects
+### Current projects
 
 
-#### Previous projects
+### Previous projects
 
 <div class="jumbotron">
     <p> 
 Characterization of piwiRNAs in lung embryonic stem cells and their role in non-small cell lung cancer.
 </p> 
 
-<table>
+<table cellspacing="10">
 	<tr>
 		<td><b>Project leader: </b></td> <td> Alfons Navarro</td>
 	</tr>
