@@ -5,7 +5,7 @@ title: people
 
 #### Current Lab Members
 
-- Alfons Navarro (Principal Investigator)
+- [Alfons Navarro] (https://alfonsnavarro.github.io/) (Principal Investigator)
 - Mariano Monzó (Emeritus Professor)
 - Tania Díaz (Lecturer)
 - Melissa Acosta (FI-SDUR)

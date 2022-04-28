@@ -3,25 +3,9 @@ layout: template1
 title: Research
 ---
 
-## Introduction
-
-During my scientific career I have mainly focused on the study of prognostic biomarkers to identify cancer patients at high risk of relapse after surgery and/or chemoresistant patients. To identify these patients, I first focused on pharmacogenomics. The study of polymorphisms and mutations in genes related to treatment metabolism and DNA repair occupied my first years of research. 
-
-After that stage, we started to study the role of microRNAs in Cancer, and recently I have extended my studies to other groups of non-coding RNAs, including lncRNAs, circRNAs or piwiRNAs. 
-
-I have worked on several tumor models, including solid and hematological malignancies, but now I am centered on the study of non-coding RNAs in lung cancer.
-
-I am also working with liquid biopsies and extracellular vesicles (exosomes), and recently I have begin to study embryonic and patient-derived lung cancer organoids.
-
-
-**Interests:** noncoding RNAs; microRNAs; piwiRNAs; lncRNAs; circularRNAs; extracellular vesicles; exosomes; biomarkers; lung cancer; colorectal cancer; lymphoma; leukemia; Hodgkin lymphoma; Multiple myeloma; organoids;
+**Group Interests:** noncoding RNAs; microRNAs; piwiRNAs; lncRNAs; circularRNAs; extracellular vesicles; exosomes; biomarkers; lung cancer; colorectal cancer; lymphoma; leukemia; Hodgkin lymphoma; Multiple myeloma; organoids;
 
 ## Publications
-
-
-To see a list with all of Alfons Navarro's papers you can visit 
-[Google Scholar](https://scholar.google.es/citations?user=xF42u88AAAAJ&hl=en) or
-Alfons's ORCID [0000-0001-6071-0926](https://orcid.org/0000-0001-6071-0926)
 
 Below we have included selected papers describing some of our best known work.
 
