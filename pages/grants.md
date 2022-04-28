@@ -28,7 +28,7 @@ Characterization of piwiRNAs in lung embryonic stem cells and their role in non-
 	</tr>
 </table>
     <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
-	<img data-u="image" src="assets/logos/ministeri.jpg"/>
+	<img data-u="image" src="../assets/logos/ministeri.jpg"/>
       </a>
 </div>
 
