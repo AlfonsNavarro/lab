@@ -14,7 +14,7 @@ enforce_ssl: ""
 baseurl: "/"
 
 # Title of website
-title: Molecular Oncology and Embryology lab
+title: Molecular Oncology and Embryology
 
 #Default keywords (used if no keywords are specified on a page basis)
 keywords: Navarro, Alfons, Molecular Oncology and Embryology lab, non-coding RNAs, microRNAs, lncRNAs, piwiRNAs, exosomes, NSCLC
@@ -60,7 +60,7 @@ pretty-url: "bchetty.com"
 disqus: 
 
 # Google Analytics Settings
-google_analytics: UA-151564720-1
+google_analytics: 
 
 # Set these options as you need (For more information, check Jekyll's site)
 timezone: "Spain"
