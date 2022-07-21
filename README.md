@@ -2,4 +2,4 @@
 
 
 
-You can see it here: https://alfonsnavarro.github.io/labweb
+You can see it here: https://alfonsnavarro.github.io/lab
