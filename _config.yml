@@ -9,7 +9,7 @@ gems:
 # If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
 #url: "http://rafalib.github.io"
 #baseurl: "/"
-url: "https://alfonsnavarro.github.io/navarrolab"
+url: "https://alfonsnavarro.github.io/lab"
 enforce_ssl: ""
 baseurl: "/"
 
@@ -39,6 +39,7 @@ nav-links:
     #Teaching: "web_page/pages/teaching.html"
     #News: "pages/news.html"
     Grants: "pages/grants.html"
+    Lab Fun: "pages/labfun.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
