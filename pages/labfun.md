@@ -10,7 +10,7 @@ title: Lab Fun
     <p> 
 Summer launch at Tania's home - 07/17/2022
 </p> 
-	<img data-u="image" src="../assets/img/Tania_home_2022.jpg"/>
+	<img data-u="image" src="../assets/img/Tania_home_2022.jpg" width="600" height="350"/>
 </div>
 
 
