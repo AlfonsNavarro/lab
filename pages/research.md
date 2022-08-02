@@ -12,6 +12,17 @@ Non-coding RNAs; microRNAs; piwiRNAs; lncRNAs; circularRNAs; extracellular vesic
 Below we have included selected papers describing some of our best known work.
 
 
+
+#### Last publications
+
+-[Characterization of the MicroRNA Cargo of Extracellular Vesicles Isolated from a Pulmonary Tumor-Draining Vein Identifies miR-203a-3p as a Relapse Biomarker for Resected Non-Small Cell Lung Cancer.] (https://www.mdpi.com/1422-0067/23/13/7138)
+B Han, L Molins, Y He, ..., A Navarro.
+Int J Mol Sci. 2022 Jun 27;23(13):7138.
+
+- [Human embryonic mesenchymal lung-conditioned medium promotes differentiation to myofibroblast and loss of stemness phenotype in lung adenocarcinoma cell lines.](https://jeccr.biomedcentral.com/articles/10.1186/s13046-021-02206-z) 
+J Canals, A Navarro, C Vila, ...
+J Exp Clin Cancer Res. 2022 Jan 26;41(1):37.  
+
 #### Reviews
 
 -[Epigenetic regulation mechanisms of microRNA expression.](https://pubmed.ncbi.nlm.nih.gov/29161231/)
@@ -72,43 +83,43 @@ Pharmacogenomics vol. 10, num. 3.
 
 #### MicroRNAs
 
--miR-34a as a prognostic marker of relapse in surgically resected non-small-cell lung cancer.
+-[miR-34a as a prognostic marker of relapse in surgically resected non-small-cell lung cancer.](https://academic.oup.com/carcin/article/30/11/1903/2629506?login=true)
 E Gallardo, A Navarro, N Vinolas, RM Marrades, T Diaz, B Gel, A Quera, ...
 Carcinogenesis 30 (11), 1903-1909.
 
--Overlapping expression of microRNAs in human embryonic colon and colorectal cancer.
+-[Overlapping expression of microRNAs in human embryonic colon and colorectal cancer.](https://www.nature.com/articles/cr200881)
 M Monzo, A Navarro, E Bandres, R Artells, I Moreno, B Gel, R Ibeas, ...
 Cell research 18 (8), 823-833.
 
--MicroRNA expression profiling in classic Hodgkin lymphoma.
+-[MicroRNA expression profiling in classic Hodgkin lymphoma.](https://ashpublications.org/blood/article/111/5/2825/109935/MicroRNA-expression-profiling-in-classic-Hodgkin)
 A Navarro, A Gaya, A Martinez, A Urbano-Ispizua, A Pons, O Balagué, ...
 Blood, The Journal of the American Society of Hematology 111 (5), 2825-2832.
 
--Regulation of JAK2 by miR-135a: prognostic impact in classic Hodgkin lymphoma.
+-[Regulation of JAK2 by miR-135a: prognostic impact in classic Hodgkin lymphoma.](https://ashpublications.org/blood/article/114/14/2945/107846/Regulation-of-JAK2-by-miR-135a-prognostic-impact)
 A Navarro, T Diaz, A Martinez, A Gaya, A Pons, B Gel, C Codony, G Ferrer, ...
 Blood, The Journal of the American Society of Hematology 114 (14), 2945-2951.
 
--Acute myeloid leukemia with translocation (8; 16)(p11; p13) and MYST3-CREBBP rearrangement harbors a distinctive microRNA signature targeting RET proto-oncogene.
+-[Acute myeloid leukemia with translocation (8; 16)(p11; p13) and MYST3-CREBBP rearrangement harbors a distinctive microRNA signature targeting RET proto-oncogene.](https://www.nature.com/articles/leu2012278)
 M Diaz-Beya, A Navarro, G Ferrer, T Diaz, B Gel, M Camos, M Pratcorona, ...
 Leukemia 27 (3), 595-603.
 
--MicroRNA expression at diagnosis adds relevant prognostic information to molecular categorization in patients with intermediate-risk cytogenetic acute myeloid leukemia.
+-[MicroRNA expression at diagnosis adds relevant prognostic information to molecular categorization in patients with intermediate-risk cytogenetic acute myeloid leukemia.](https://www.nature.com/articles/leu2013281)
 M Diaz-Beya, S Brunet, J Nomdedeu, R Tejero, T Diaz, M Pratcorona, ...
 Leukemia 28 (4), 804-812
 
 #### LncRNAs
 
--LincRNA-p21 impacts prognosis in resected non–small cell lung Cancer patients through angiogenesis regulation
+-[LincRNA-p21 impacts prognosis in resected non–small cell lung Cancer patients through angiogenesis regulation.](https://www.jto.org/article/S1556-0864(16)30692-X/fulltext)
 JJ Castellano, A Navarro, N Viñolas, RM Marrades, J Moises, A Cordeiro, ...
 Journal of Thoracic Oncology 11 (12), 2173-2182.
 
 #### PiwiRNAs
 
--PiwiRNA-651 as marker of treatment response and survival in classical Hodgkin lymphoma
+-[PiwiRNA-651 as marker of treatment response and survival in classical Hodgkin lymphoma.](https://www.oncotarget.com/article/10015/text/)
 A Cordeiro, A Navarro, A Gaya, M Díaz-Beyá, B Gonzalez-Farré, ...
 Oncotarget 7 (29), 46002-46013.
 
--The significance of PIWI family expression in human lung embryogenesis and non-small cell lung cancer
+-[The significance of PIWI family expression in human lung embryogenesis and non-small cell lung cancer.](https://www.oncotarget.com/article/3003/text/)
 A Navarro, R Tejero, N Viñolas, A Cordeiro, RM Marrades, D Fuster, ...
 Oncotarget 6 (31), 31544.
 
@@ -122,38 +133,38 @@ Translational Lung Cancer Research 10 (4), 1804
 
 #### Extracellular vesicles (exosomes) and non-coding RNAs
 
--Extracellular vesicle lincRNA-p21 expression in tumor-draining pulmonary vein defines prognosis in NSCLC and modulates endothelial cell behavior
+-[Extracellular vesicle lincRNA-p21 expression in tumor-draining pulmonary vein defines prognosis in NSCLC and modulates endothelial cell behavior.](https://www.mdpi.com/2072-6694/12/3/734)
 JJ Castellano, RM Marrades, L Molins, N Viñolas, J Moises, J Canals, ...
 Cancers 12 (3), 734
 
--Exosome analysis in tumor-draining pulmonary vein identifies NSCLC patients with higher risk of relapse after curative surgery
+-[Exosome analysis in tumor-draining pulmonary vein identifies NSCLC patients with higher risk of relapse after curative surgery.](https://www.mdpi.com/2072-6694/11/2/249)
 A Navarro, L Molins, RM Marrades, J Moises, N Viñolas, S Morales, ...
 Cancers 11 (2), 249
 
 
 #### Pharmacogenomics
 
--Impact of MiRSNPs on survival and progression in patients with multiple myeloma undergoing autologous stem cell transplantation.
+-[Impact of MiRSNPs on survival and progression in patients with multiple myeloma undergoing autologous stem cell transplantation.](https://aacrjournals.org/clincancerres/article/18/13/3697/287310/Impact-of-MiRSNPs-on-Survival-and-Progression-in)
 CF de Larrea, A Navarro, R Tejero, N Tovar, T Díaz, MT Cibeira, L Rosinol, ...
 Clinical cancer research 18 (13), 3697-3704.
 
--Genomic polymorphisms provide prognostic information in intermediate-risk acute myeloblastic leukemia.
+-[Genomic polymorphisms provide prognostic information in intermediate-risk acute myeloblastic leukemia.](https://ashpublications.org/blood/article/107/12/4871/129260/Genomic-polymorphisms-provide-prognostic)
 M Monzo, S Brunet, A Urbano-Ispizua, A Navarro, G Perea, J Esteve, ...
 Blood 107 (12), 4871-4879.
 
--MiR-SNPs as markers of toxicity and clinical outcome in Hodgkin lymphoma patients.
+-[MiR-SNPs as markers of toxicity and clinical outcome in Hodgkin lymphoma patients.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064716)
 A Navarro, C Munoz, A Gaya, M Díaz-Beyá, B Gel, R Tejero, T Díaz, ...
 PloS one 8 (5), e64716
 
--A dual role for KRT81: a miR-SNP associated with recurrence in non-small-cell lung cancer and a novel marker of squamous cell lung carcinoma.
+-[A dual role for KRT81: a miR-SNP associated with recurrence in non-small-cell lung cancer and a novel marker of squamous cell lung carcinoma.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0022509)
 M Campayo, A Navarro, N Vinolas, R Tejero, C Munoz, T Diaz, ...
 PloS one 6 (7), e22509
 
--Single-nucleotide polymorphisms in base excision repair, nucleotide excision repair, and double strand break genes as markers for response to radiotherapy in patients with …
+-[Single-nucleotide polymorphisms in base excision repair, nucleotide excision repair, and double strand break genes as markers for response to radiotherapy in patients with stage I to II head-and-neck cancer.](https://www.redjournal.org/article/S0360-3016(06)01121-7/fulltext)
 J Carles, M Monzo, M Amat, S Jansa, R Artells, A Navarro, P Foro, ...
 International Journal of Radiation Oncology* Biology* Physics 66 (4), 1022-1030.
 
--Common variants in NLRP2 and NLRP3 genes are strong prognostic factors for the outcome of HLA-identical sibling allogeneic stem cell transplantation
+-[Common variants in NLRP2 and NLRP3 genes are strong prognostic factors for the outcome of HLA-identical sibling allogeneic stem cell transplantation.] (https://ashpublications.org/blood/article/112/10/4337/24611/Common-variants-in-NLRP2-and-NLRP3-genes-are)
 M Granell, A Urbano-Ispizua, A Pons, JI Aróstegui, B Gel, A Navarro, ...
 Blood, The Journal of the American Society of Hematology 112 (10), 4337-4342
 
