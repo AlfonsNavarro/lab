@@ -15,7 +15,7 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
--[Characterization of the MicroRNA Cargo of Extracellular Vesicles Isolated from a Pulmonary Tumor-Draining Vein Identifies miR-203a-3p as a Relapse Biomarker for Resected Non-Small Cell Lung Cancer.] (https://www.mdpi.com/1422-0067/23/13/7138)
+-[Characterization of the MicroRNA Cargo of Extracellular Vesicles Isolated from a Pulmonary Tumor-Draining Vein Identifies miR-203a-3p as a Relapse Biomarker for Resected Non-Small Cell Lung Cancer.](https://www.mdpi.com/1422-0067/23/13/7138)
 B Han, L Molins, Y He, ..., A Navarro.
 Int J Mol Sci. 2022 Jun 27;23(13):7138.
 
@@ -164,7 +164,7 @@ PloS one 6 (7), e22509
 J Carles, M Monzo, M Amat, S Jansa, R Artells, A Navarro, P Foro, ...
 International Journal of Radiation Oncology* Biology* Physics 66 (4), 1022-1030.
 
--[Common variants in NLRP2 and NLRP3 genes are strong prognostic factors for the outcome of HLA-identical sibling allogeneic stem cell transplantation.] (https://ashpublications.org/blood/article/112/10/4337/24611/Common-variants-in-NLRP2-and-NLRP3-genes-are)
+-[Common variants in NLRP2 and NLRP3 genes are strong prognostic factors for the outcome of HLA-identical sibling allogeneic stem cell transplantation.](https://ashpublications.org/blood/article/112/10/4337/24611/Common-variants-in-NLRP2-and-NLRP3-genes-are)
 M Granell, A Urbano-Ispizua, A Pons, JI Aróstegui, B Gel, A Navarro, ...
 Blood, The Journal of the American Society of Hematology 112 (10), 4337-4342
 
