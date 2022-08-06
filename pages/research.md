@@ -19,7 +19,7 @@ Below we have included selected papers describing some of our best known work.
 B Han, L Molins, Y He, ..., A Navarro.
 Int J Mol Sci. 2022 Jun 27;23(13):7138.
 
-- [Human embryonic mesenchymal lung-conditioned medium promotes differentiation to myofibroblast and loss of stemness phenotype in lung adenocarcinoma cell lines.](https://jeccr.biomedcentral.com/articles/10.1186/s13046-021-02206-z) 
+-[Human embryonic mesenchymal lung-conditioned medium promotes differentiation to myofibroblast and loss of stemness phenotype in lung adenocarcinoma cell lines.](https://jeccr.biomedcentral.com/articles/10.1186/s13046-021-02206-z) 
 J Canals, A Navarro, C Vila, ...
 J Exp Clin Cancer Res. 2022 Jan 26;41(1):37.  
 
