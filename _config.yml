@@ -35,9 +35,10 @@ nav-links:
     People: "pages/people.html"
     Research: "pages/research.html"
     Books: "pages/books.html"
-    #Software: "web_page/pages/software.html"
-    #Teaching: "web_page/pages/teaching.html"
-    #News: "pages/news.html"
+    Dissemination: "/pages/dissemination.html"
+    Teaching: "pages/teaching.html"
+    Editorial activity: "pages/editorial.html"
+    News: "pages/news.html"
     Grants: "pages/grants.html"
     Lab Fun: "pages/labfun.html"
 # --- Footer options --- #
@@ -46,10 +47,10 @@ nav-links:
 profile:
   name: Alfons Navarro
   email: anavarroponz@ub.edu
-  facebook: 
+  facebook: alfons.navarro.ponz
   github: AlfonsNavarro
   twitter: anavarroponz
-  linkedin: 
+  linkedin: https://www.linkedin.com/in/alfons-navarro-2a452970/?originalSubdomain=es
   stackoverflow: 
 
 # To display link in the footer section
