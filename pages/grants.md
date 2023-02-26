@@ -24,8 +24,8 @@ Análisis de ARNs pequeños no codificante en organoides derivados de pacientes 
 		<td><b>End date: </b></td><td></td> <td>&nbsp; 06/30/2025</td>
 	</tr>
 </table>
-    <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
-	<img data-u="image" src="../assets/logos/separ.jpeg"/>
+    <a href="https://www.separ.es">
+	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
       </a>
 </div>
 
@@ -49,8 +49,8 @@ Estudio de la aplicabilidad clínica del cultivo de organoides en estadios inici
 		<td><b>End date: </b></td><td></td> <td>&nbsp; 04/05/2025</td>
 	</tr>
 </table>
-    <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
-	<img data-u="image" src="../assets/logos/separ.jpeg"/>
+    <a href="https://www.separ.es">
+	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
       </a>
 </div>
 
