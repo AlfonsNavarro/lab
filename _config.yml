@@ -37,7 +37,7 @@ nav-links:
     Books: "pages/books.html"
     #Dissemination: "/pages/dissemination.html"
     #Teaching: "pages/teaching.html"
-    Editorial activity: "pages/editorial.html"
+    #Editorial activity: "pages/editorial.html"
     #News: "pages/news.html"
     Grants: "pages/grants.html"
     Lab Fun: "pages/labfun.html"
