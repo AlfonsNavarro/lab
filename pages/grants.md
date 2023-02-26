@@ -25,7 +25,7 @@ Análisis de ARNs pequeños no codificante en organoides derivados de pacientes 
 	</tr>
 </table>
     <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
-	<img data-u="image" src="../assets/logos/ministeri.jpg"/>
+	<img data-u="image" src="../assets/logos/separ.jpeg"/>
       </a>
 </div>
 
@@ -50,7 +50,7 @@ Estudio de la aplicabilidad clínica del cultivo de organoides en estadios inici
 	</tr>
 </table>
     <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
-	<img data-u="image" src="../assets/logos/ministeri.jpg"/>
+	<img data-u="image" src="../assets/logos/separ.jpeg"/>
       </a>
 </div>
 
