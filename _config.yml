@@ -35,10 +35,10 @@ nav-links:
     People: "pages/people.html"
     Research: "pages/research.html"
     Books: "pages/books.html"
-    Dissemination: "/pages/dissemination.html"
-    Teaching: "pages/teaching.html"
+    #Dissemination: "/pages/dissemination.html"
+    #Teaching: "pages/teaching.html"
     Editorial activity: "pages/editorial.html"
-    News: "pages/news.html"
+    #News: "pages/news.html"
     Grants: "pages/grants.html"
     Lab Fun: "pages/labfun.html"
 # --- Footer options --- #
