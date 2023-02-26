@@ -30,7 +30,7 @@ desc: Sample Description
 
 # List of links in the navigation bar
 nav-links:
-    Home: ""
+    #Home: ""
     #About: "pages/about.html"
     People: "pages/people.html"
     Research: "pages/research.html"
@@ -38,7 +38,7 @@ nav-links:
     #Dissemination: "/pages/dissemination.html"
     #Teaching: "pages/teaching.html"
     #Editorial activity: "pages/editorial.html"
-    #News: "pages/news.html"
+    News: "pages/news.html"
     Grants: "pages/grants.html"
     Lab Fun: "pages/labfun.html"
 # --- Footer options --- #
