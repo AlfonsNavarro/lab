@@ -5,6 +5,55 @@ title: Grants
 
 ### Current projects
 
+<div class="jumbotron">
+    <p> 
+Análisis de ARNs pequeños no codificante en organoides derivados de pacientes con Cáncer de pulmón.  
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Ramon M. Marrades</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR 2023</td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 06/01/2022 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 06/30/2025</td>
+	</tr>
+</table>
+    <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
+	<img data-u="image" src="../assets/logos/ministeri.jpg"/>
+      </a>
+</div>
+
+
+<div class="jumbotron">
+    <p> 
+Estudio de la aplicabilidad clínica del cultivo de organoides en estadios iniciales de cáncer de pulmón no microcítico.
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Ramon M. Marrades</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR PI-Oncologia</td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 04/06/2022 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 04/05/2025</td>
+	</tr>
+</table>
+    <a href="https://portal.mineco.gob.es/es-es/Paginas/index.aspx">
+	<img data-u="image" src="../assets/logos/ministeri.jpg"/>
+      </a>
+</div>
+
 
 ### Previous projects
 
