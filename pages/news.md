@@ -14,9 +14,12 @@ title: News
 </p>
 <p>
 </p>
-<p>	
-- 02/10/2023 - [XXXIV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxiv-jornada-de-biologia-del-desenvolupament/) - Melissa Acosta presented a Poster
+<p>
+
+- 02/10/2023 - [XXXIV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxiv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster
+
+
 </p>
 <p>
-<img data-u="image" src="../assets/img/SCB_2023.JPEG" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="600" height="400"/>
+<img data-u="image" src="../assets/img/SCB_2023.JPEG" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="500" height="300"/>
 </p>
