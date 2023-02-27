@@ -15,8 +15,8 @@ title: News
 <p>
 </p>
 <p>	
-- 02/10/2023 - XXXIV DEVELOPMENTAL BIOLOGY MEETING - Melissa Acosta Is presenting a Poster
+- 02/10/2023 - [XXXIV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxiv-jornada-de-biologia-del-desenvolupament/) - Melissa Acosta presented a Poster
 </p>
 <p>
-<img data-u="image" src="../assets/img/SCB_2023.JPEG" alt="MELISSA ACOSTA IS PRESENTING A POSTER">
+<img data-u="image" src="../assets/img/SCB_2023.JPEG" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="600" height="400"/>
 </p>
