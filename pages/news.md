@@ -9,3 +9,6 @@ title: News
 <p>
 <img data-u="image" src="../assets/img/tesis_bing.jpeg" alt="The people in the photo are: (from right to left) Tribunal: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department.">
 </p>
+<p>
+	The people in the photo are: (from right to left) Tribunal: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department.
+</p>
