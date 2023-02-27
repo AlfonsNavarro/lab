@@ -9,7 +9,6 @@ title: people
 - [Mariano Monzó](https://www.linkedin.com/in/mariano-monzo-514b7524/?originalSubdomain=es) (Emeritus Professor)
 - Tania Díaz (Lecturer)
 - Melissa Acosta (FI-SDUR)
-- Bing Han (PhD Student)
 - Yanghyi He (PhD Student)
 - Sandra Castagno (PhD Student)
 - Carmen Mu&ntilde;oz (Assistant Professor)
@@ -27,6 +26,7 @@ title: people
 
 #### PhD Alumni
 
+- Bing Han. Thesis: *Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers* (2023)
 - Jordi Canals Serrat.Thesis: *El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó* (2022)
 - Yan Li. Thesis: *Analysis of the K-RAS mutant alleles and lincRNA-p21 expression in tumors and liquid biopsy as prognostic factors in surgical colorectal cancer patients* (2020)
 - Jorge Moisés Lafuente. Thesis: *Estudio de los elementos reguladores de la embriogenesis NKX2-1, NANCI y HOTTIP en
