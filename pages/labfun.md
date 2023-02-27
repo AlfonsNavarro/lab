@@ -12,7 +12,7 @@ Late Christmas lunch at Japanesse restaurant - 13/01/2023
 </p> 
 <table>
 	<tr>
-	<img data-u="image" src="../assets/img/comida_navidad.jpg" width="600" height="400"/>
+	<img data-u="image" src="../assets/img/comida_navidad.jpg" width="400" height="600"/>
 	</tr>
 </table>
 </div>
