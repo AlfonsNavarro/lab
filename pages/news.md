@@ -8,7 +8,7 @@ title: News
 - 03/02/2023 - We are participating in the *IDIBAPS Scientific Photo Contest, edition 2023* with this picture:
 
 <p>
-<img data-u="image" src="../assets/img/arbol_vida.png" alt="arbo vida" width="50" height="30"/>
+<img data-u="image" src="../assets/img/arbol_vida.png" alt="arbo vida" width="250" height="150"/>
 </p>
 
 Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0ecIZARWrnAOSehKI4lGiClxSQuOCmxi40G9eKDLu-8ajyHQbZ9_Mrg?pli=1&key=cTJpa1hfbDc5VWJxeUtqYW1ZYXczVnJzLUtCS1R3)
