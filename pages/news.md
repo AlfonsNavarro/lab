@@ -5,6 +5,14 @@ title: News
 
 #### News
 
+- 03/02/2023 - We are participating in the *IDIBAPS Scientific Photo Contest, edition 2023* with this picture:
+
+<p>
+<img data-u="image" src="../assets/img/arbol_vida.png" alt="arbo vida" width="50" height="30"/>
+</p>
+
+Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0ecIZARWrnAOSehKI4lGiClxSQuOCmxi40G9eKDLu-8ajyHQbZ9_Mrg?pli=1&key=cTJpa1hfbDc5VWJxeUtqYW1ZYXczVnJzLUtCS1R3)
+
 - 02/23/2023 - [Thesis defense of Bing Han](https://www.ub.edu/portal/web/dp-cirurgiaespecialitats/detall-novetats/-/detall/defensa-de-tesis-del-dr-bing-han)
 <p>
 <img data-u="image" src="../assets/img/tesis_bing.jpeg" alt="The people in the photo are: (from right to left) Tribunal: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department." width="500" height="300"/>
