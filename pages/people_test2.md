@@ -1,7 +1,3 @@
----
-layout: template1
-title: people
----
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +69,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Alfons" style="width:25%">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Alfons" style="width:50%">
       <div class="container">
         <h2>Alfons Navarro</h2>
         <p class="title">Associate Professor - PI</p>
@@ -86,7 +82,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Mariano" style="width:100%">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Mariano" style="width:50%">
       <div class="container">
         <h2>Mariano Monzo</h2>
         <p class="title">Art Director</p>
@@ -99,7 +95,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Melissa" style="width:100%">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Melissa" style="width:50%">
       <div class="container">
         <h2>Melissa Acosta</h2>
         <p class="title">Designer</p>
