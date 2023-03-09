@@ -7,6 +7,50 @@ title: people
 
 
 
+ <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Jane Doe</h2>
+        <p class="title">CEO &amp; Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>John Doe</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div> 
+
+
+
+
 <table style="width:100%">
   <tr>
     <td><img data-u="image" src="../assets/img/photo_Alfons_Navarro.jpeg"/></td>
@@ -26,13 +70,9 @@ title: people
 
 
 
-- [Alfons Navarro](https://alfonsnavarro.github.io/) (Associate Professor - PI)
-- [Mariano Monzó](https://www.linkedin.com/in/mariano-monzo-514b7524/?originalSubdomain=es) (Emeritus Professor)
-- Tania Díaz (Lecturer)
-- Melissa Acosta (FI-SDUR)
-- Yanghyi He (PhD Student)
-- Sandra Castagno (PhD Student)
-- Carmen Mu&ntilde;oz (Assistant Professor)
+
+
+
 
 #### Clinical col·laborators
 
