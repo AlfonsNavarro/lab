@@ -79,7 +79,8 @@ html {
         </div>
     </div>
   </div>
-
+</div>
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="../assets/img/photo_Alfons_Navarro.jpeg" alt="Mariano" style="width:100%">
