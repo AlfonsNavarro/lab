@@ -75,6 +75,9 @@ html {
         <h2>Alfons Navarro</h2>
         <p class="title">Associate Professor - PI</p>
         <p>Human Anatomy and Embriology Unit</p>
+        <p>ORCID: 0000-0001-6071-0926</p>
+        <p>Scopus Author ID: 34571783600</p>
+        <p>Researcher ID: C-2453-2015</p>
         <p>anavarroponz@ub.edu</p>
         </div>
     </div>
