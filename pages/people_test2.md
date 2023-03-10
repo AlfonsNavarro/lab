@@ -89,10 +89,10 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Melissa.jpg" alt="Melissa" style="width:100%">
       <div class="container">
-        <h2>Mariano Monzo</h2>
-        <p class="title">Emeritus Professor</p>
+        <h2>Melissa Acosta</h2>
+        <p class="title">FI-SDUR Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>mmonzo@ub.edu</p>
+        <p>macostapl@ub.edu</p>
         </div>
     </div>
   </div>
@@ -101,10 +101,10 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Sandra.jpg" alt="Sandra" style="width:100%">
       <div class="container">
-        <h2>Melissa Acosta</h2>
-        <p class="title">Designer</p>
+        <h2>Sandra Castagno</h2>
+        <p class="title">Emili Letang Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>macostapl@ub.edu</p>
+        <p></p>
         </div>
     </div>
   </div>
@@ -145,12 +145,11 @@ colon</em> (2018)</li>
 </ul>
 
 
-    </div>
 
 
 
 
 
 
-</body>
-</html>
+
+
