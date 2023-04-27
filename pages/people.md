@@ -24,7 +24,7 @@ title: people
 - [Daniel Martínez](https://www.linkedin.com/in/daniel-martinez-hernandez-b7b22653/?originalSubdomain=es) (Pathology, Hospital Clínic)
 
 
-#### PhD Alumni
+#### Past PhD Alumni
 
 - Bing Han. Thesis: *Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers* (2023)
 - Jordi Canals Serrat.Thesis: *El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó* (2022)
