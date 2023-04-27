@@ -8,7 +8,7 @@ title: News
 - 01/04/2023 - We were asked to design the cover image of Biocell journal after acceptance of our [Viewpoint](https://www.techscience.com/biocell/v47n5/52280) about tumor-draining vein and extracellular vesicles in lung cancer:
 
 <p>
-<img data-u="image" src="../assets/img/biocell_cover.png" alt="Biocell journal cover" width="250" height="150"/>
+<img data-u="image" src="../assets/img/biocell_cover.png" alt="Biocell journal cover" width="300" height="450"/>
 </p>
 
 Please see our Viewpoint [here](https://www.techscience.com/biocell/v47n5/52280)
