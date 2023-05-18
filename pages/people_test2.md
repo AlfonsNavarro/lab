@@ -130,7 +130,7 @@ html {
 </div>
 
 <h2 id="clinical-collaborators">Clinical col·laborators</h2>
-
+<h3>
 <ul>
   <li><a href="https://www.clinicbarcelona.org/profesionales/ramon-marrades">Ramón M. Marrades</a> (Pulmonologist, Hospital Clínic)</li>
   <li><a href="https://www.barnaclinic.com/es/cuadro-medico/188/laureano">Laureano Molins</a> (Thoracic Surgeon, Hospital Clínic)</li>
@@ -140,9 +140,9 @@ html {
   <li><a href="http://cdb.hospitalclinic.org/facultativos/54/jose-ramirez-ruz">José Ramírez Ruz</a> (Pathology, Hospital Clínic)</li>
   <li><a href="https://www.linkedin.com/in/daniel-martinez-hernandez-b7b22653/?originalSubdomain=es">Daniel Martínez</a> (Pathology, Hospital Clínic)</li>
 </ul>
-
+</h3>
 <h2 id="phd-alumni">PhD Alumni</h2>
-
+<h3>
 <ul>
   <li>Bing Han. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
   <li>Jordi Canals Serrat.Thesis: <em>El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó</em> (2022)</li>
@@ -163,7 +163,7 @@ colon</em> (2018)</li>
   <li>Aina Pons Rosell. Thesis: <em>Análisis de los perfiles de expresión de microRNAs en enfermedades hematológicas: Síndromes mielodisplásicos y Linfoma de Hodgkin</em> (2010)</li>
 </ul>
 
-
+</h3>
 
 
 
