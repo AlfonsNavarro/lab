@@ -57,7 +57,7 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Alfons.jpg" alt="Alfons" style="width:100%">
       <div class="container">
-        <h2>Alfons Navarro</h2>
+        <h3>Alfons Navarro, PhD</h3>
         <p class="title">Associate Professor - Principal Investigator</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-6071-0926</p>
@@ -69,7 +69,7 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Mariano.jpg" alt="Mariano" style="width:100%">
       <div class="container">
-        <h2>Mariano Monzo</h2>
+        <h3>Mariano Monzo, MD, PhD</h3>
         <p class="title">Emeritus Professor</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0003-2322-4851</p>
@@ -81,7 +81,7 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Melissa.jpg" alt="Melissa" style="width:100%">
       <div class="container">
-        <h2>Melissa Acosta</h2>
+        <h3>Melissa Acosta, MSc</h3>
         <p class="title">FI-SDUR Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-6679-8869</p>
@@ -93,8 +93,8 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Sandra.jpg" alt="Sandra" style="width:100%">
       <div class="container">
-        <h2>Sandra Castagno</h2>
-        <p class="title">Emili Letang Fellow</p>
+        <h3>Sandra Castagno, MD</h3>
+        <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-9044-4665</p>
         <p></p>
@@ -106,7 +106,7 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/tania.jpg" alt="Tania" style="width:100%">
       <div class="container">
-        <h2>Tania Diaz</h2>
+        <h3>Tania Diaz, PhD</h3>
         <p class="title">Lecturer</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-9576-8351</p>
@@ -119,7 +119,7 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Yangyi.jpg" alt="Yangyi" style="width:100%">
       <div class="container">
-        <h2>Yangyi He</h2>
+        <h3>Yangyi He, MD</h3>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0003-0792-193X</p>
