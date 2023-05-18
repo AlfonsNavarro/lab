@@ -129,7 +129,7 @@ html {
   </div>
 </div>
 
-<h2 id="clinical-collaborators">Clinical col·laborators</h4>
+<h2 id="clinical-collaborators">Clinical col·laborators</h2>
 
 <ul>
   <li><a href="https://www.clinicbarcelona.org/profesionales/ramon-marrades">Ramón M. Marrades</a> (Pulmonologist, Hospital Clínic)</li>
@@ -141,7 +141,7 @@ html {
   <li><a href="https://www.linkedin.com/in/daniel-martinez-hernandez-b7b22653/?originalSubdomain=es">Daniel Martínez</a> (Pathology, Hospital Clínic)</li>
 </ul>
 
-<h2 id="phd-alumni">PhD Alumni</h4>
+<h2 id="phd-alumni">PhD Alumni</h2>
 
 <ul>
   <li>Bing Han. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
