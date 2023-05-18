@@ -61,8 +61,6 @@ html {
         <p class="title">Associate Professor - Principal Investigator</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-6071-0926</p>
-        <p>Scopus Author ID: 34571783600</p>
-        <p>Researcher ID: C-2453-2015</p>
         </div>
     </div>
   </div>
@@ -75,8 +73,6 @@ html {
         <p class="title">Emeritus Professor</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0003-2322-4851</p>
-        <p>Scopus Author ID: XXXXXXXX</p>
-        <p>Researcher ID: XXXXXXXX</p>
         </div>
     </div>
   </div>
@@ -89,8 +85,6 @@ html {
         <p class="title">FI-SDUR Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: 0000-0001-6679-8869</p>
-        <p>Scopus Author ID: XXXXXXXX</p>
-        <p>Researcher ID: XXXXXXXX</p>
         </div>
     </div>
   </div>
@@ -102,9 +96,7 @@ html {
         <h2>Sandra Castagno</h2>
         <p class="title">Emili Letang Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-XXXXX-XXXXXXX</p>
-        <p>Scopus Author ID: XXXXXXXX</p>
-        <p>Researcher ID: XXXXXXXX</p>
+        <p>ORCID: 0000-0001-9044-4665</p>
         <p></p>
         </div>
     </div>
@@ -117,9 +109,7 @@ html {
         <h2>Tania Diaz</h2>
         <p class="title">Lecturer</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-XXXXX-XXXXXXX</p>
-        <p>Scopus Author ID: XXXXXXXX</p>
-        <p>Researcher ID: XXXXXXXX</p>
+        <p>ORCID: 0000-0001-9576-8351</p>
         <p></p>
         </div>
     </div>
@@ -132,9 +122,7 @@ html {
         <h2>Yangyi He</h2>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-XXXXX-XXXXXXX</p>
-        <p>Scopus Author ID: XXXXXXXX</p>
-        <p>Researcher ID: XXXXXXXX</p>
+        <p>ORCID: 0000-0003-0792-193X</p>
         <p></p>
         </div>
     </div>
