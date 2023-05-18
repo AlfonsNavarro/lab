@@ -104,7 +104,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Tania.jpg" alt="Tania" style="width:100%">
+      <img src="../assets/img/fotos_people/tania.jpg" alt="Tania" style="width:100%">
       <div class="container">
         <h2>Tania Diaz</h2>
         <p class="title">Lecturer</p>
