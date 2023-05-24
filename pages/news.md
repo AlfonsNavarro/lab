@@ -5,6 +5,13 @@ title: News
 
 #### News
 
+- 05/05/2023 - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
+
+<p>
+<img data-u="image" src="../assets/img/dismosi_agreement.png" alt="Dismosi Agreement" width="300" height="450"/>
+</p>
+
+
 - 01/04/2023 - We were asked to design the cover image of Biocell journal after acceptance of our [Viewpoint](https://www.techscience.com/biocell/v47n5/52280) about tumor-draining vein and extracellular vesicles in lung cancer:
 
 <p>
