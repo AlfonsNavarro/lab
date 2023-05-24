@@ -8,7 +8,7 @@ title: News
 - 05/05/2023 - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
 
 <p>
-<img data-u="image" src="../assets/img/dismosi_agreement.png" alt="Dismosi Agreement" width="300" height="450"/>
+<img data-u="image" src="../assets/img/dismosi_agreement.png" alt="Dismosi Agreement" width="500" height="300"/>
 </p>
 
 
