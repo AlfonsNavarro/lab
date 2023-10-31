@@ -91,12 +91,12 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Sandra.jpg" alt="Sandra" style="width:100%">
+      <img src="../assets/img/fotos_people/Antonio.jpg" alt="Antonio" style="width:100%">
       <div class="container">
         <h3>Sandra Castagno, MD</h3>
-        <p class="title">PhD Student</p>
+        <p class="title">Posdoctoral researcher</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-9044-4665</p>
+        <p>ORCID: 0000-0001-6544-3759</p>
         <p></p>
         </div>
     </div>
@@ -127,6 +127,18 @@ html {
         </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <img src="../assets/img/fotos_people/Sandra.jpg" alt="Sandra" style="width:100%">
+      <div class="container">
+        <h3>Sandra Castagno, MD</h3>
+        <p class="title">PhD Student</p>
+        <p>Human Anatomy and Embriology Unit</p>
+        <p>ORCID: 0000-0001-9044-4665</p>
+        <p></p>
+        </div>
+    </div>
+  </div>
 </div>
 
 <h2 id="clinical-collaborators">Clinical col·laborators</h2>
@@ -141,6 +153,18 @@ html {
   <li><a href="https://www.linkedin.com/in/daniel-martinez-hernandez-b7b22653/?originalSubdomain=es">Daniel Martínez</a> (Pathology, Hospital Clínic)</li>
 </ul>
 </h4>
+
+<h2 id="Students">Undergraduate and Master students</h2>
+<h4>
+<ul>
+  <li><a href="">Tianmiao Yang</a> Master of Tranlational Medicine, UB, 2023-2024</li>
+  <li><a href="">Philipp Menauer</a> ICE program, visiting scholar from LMU, Munich Germany. 2023</li>
+</ul>
+</h4>
+
+
+
+
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>
