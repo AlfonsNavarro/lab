@@ -157,7 +157,7 @@ html {
 <h2 id="Students">Undergraduate and Master students</h2>
 <h4>
 <ul>
-  <li><a href="">Tianmiao Yang</a> Master of Tranlational Medicine, UB, 2023-2024</li>
+  <li><a href="">Tianmiao Yang</a> Master of Translational Medicine, UB, 2023-2024</li>
   <li><a href="">Philipp Menauer</a> ICE program, visiting scholar from LMU, Munich Germany. 2023</li>
 </ul>
 </h4>

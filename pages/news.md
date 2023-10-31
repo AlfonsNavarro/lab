@@ -5,6 +5,14 @@ title: News
 
 #### News
 
+- 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from ICE program, Philipp Menauer also attended to the congress.
+
+
+<p>
+<img data-u="image" src="../assets/img/EDBC_2023.jpg" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="500" height="300"/>
+</p>
+
+
 - 05/05/2023 - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
 
 <p>
