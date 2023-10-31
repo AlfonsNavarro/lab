@@ -60,7 +60,7 @@ html {
         <h3>Alfons Navarro, PhD</h3>
         <p class="title">Associate Professor - Principal Investigator</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-6071-0926</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0001-6071-0926">0000-0001-6071-0926</a></p>
         </div>
     </div>
   </div>
@@ -72,7 +72,7 @@ html {
         <h3>Mariano Monzo, MD, PhD</h3>
         <p class="title">Emeritus Professor</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0003-2322-4851</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0003-2322-4851">0000-0003-2322-4851</a></p>
         </div>
     </div>
   </div>
@@ -84,7 +84,7 @@ html {
         <h3>Melissa Acosta, MSc</h3>
         <p class="title">FI-SDUR Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-6679-8869</p>
+        <p>ORCID:<a href="https://orcid.org/0000-0001-6679-8869">0000-0001-6679-8869</a></p>
         </div>
     </div>
   </div>
@@ -93,10 +93,10 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Antonio.jpg" alt="Antonio" style="width:100%">
       <div class="container">
-        <h3>Sandra Castagno, MD</h3>
+        <h3>Antonio Altuna Coy, PhD</h3>
         <p class="title">Posdoctoral researcher</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-6544-3759</p>
+        <p>ORCID:<a href="https://orcid.org/0000-0001-6544-3759">0000-0001-6544-3759</a></p>
         <p></p>
         </div>
     </div>
@@ -109,7 +109,7 @@ html {
         <h3>Tania Diaz, PhD</h3>
         <p class="title">Lecturer</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-9576-8351</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0001-9576-8351">0000-0001-9576-8351</a></p>
         <p></p>
         </div>
     </div>
@@ -122,7 +122,7 @@ html {
         <h3>Yangyi He, MD</h3>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0003-0792-193X</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0003-0792-193X">0000-0003-0792-193X</a></p>
         <p></p>
         </div>
     </div>
@@ -134,7 +134,7 @@ html {
         <h3>Sandra Castagno, MD</h3>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: 0000-0001-9044-4665</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0001-9044-4665">0000-0001-9044-4665</a></p>
         <p></p>
         </div>
     </div>
