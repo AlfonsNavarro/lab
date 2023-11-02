@@ -12,6 +12,13 @@ title: News
 <img data-u="image" src="../assets/img/EDBC_2023.jpg" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="500" height="300"/>
 </p>
 
+- 15/09/2023 - We welcome [Antonio Altuna Coy](https://alfonsnavarro.github.io/lab/pages/people.html), our new posdoctoral researcher in the lab!!!  - Antonio will be working on Extracellular vesicles in Lung cancer. -
+
+
+<p>
+<img data-u="image" src="../assets/img/EDBC_2023.jpg" alt="Antonio Altuna Working in the lab" width="500" height="300"/>
+</p>
+
 
 - 05/05/2023 - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
 
