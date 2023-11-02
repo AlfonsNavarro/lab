@@ -5,7 +5,7 @@ title: News
 
 #### News
 
-- 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from ICE program, Philipp Menauer also attended to the congress.
+- 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from [ICEP](https://www.internationalcollaborationexchange.org) program, Philipp Menauer also attended to the congress.
 
 
 <p>
