@@ -162,9 +162,6 @@ html {
 </ul>
 </h4>
 
-
-
-
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>

@@ -3,6 +3,30 @@ layout: template1
 title: Books
 ---
 
+# Book chapters
+
+Acosta-Plasencia, M. et al. (2022). Patient-Derived Organoids as a Stem Cell Model to Study Lung Cancer. In: Interdisciplinary Cancer Research. Springer, Cham. https://doi.org/10.1007/16833_2022_78
+
+<p>
+
+Acosta-Plasencia, M. et al. (2023). POTENTIAL OF PATIENT DERIVED ORGANOIDS AND OTHER 3D CULTURE MODELS TO ASSESS IMMUNOTHERAPY RESPONSE IN CANCER. In: HANDBOOK OF CANCER AND IMMUNOLOGY. Springer. <i>In Press</i>
+
+
+
+## Long Non-Coding RNAs in Cancer
+
+This book tries to summarize with laboratory protocols, bioinformatic pipelines and review chapters, the main steps performed from translational researchers that from a patient tumor tissue or tumor cells, decides to identify and study tumorigenic lncRNAs. Beginning with the identification (profiling phase) and validation of candidate biomarkers, followed by the decoding of the function developed in the tumor. 
+
+Our group has contributed with chapter 20, which focuses in the analysis of lncRNAs in extracellular vesicles.
+
+You can buy a hard copy of the book [here](https://www.springer.com/gp/book/9781071615805)
+
+![book cover]({{site.base.url}}/assets/img/lncRNA_book_Springer.png){:height="30%" width="30%"}
+
+
+
+# Books 
+
 ## Long Non-Coding RNAs in Cancer
 
 This book tries to summarize with laboratory protocols, bioinformatic pipelines and review chapters, the main steps performed from translational researchers that from a patient tumor tissue or tumor cells, decides to identify and study tumorigenic lncRNAs. Beginning with the identification (profiling phase) and validation of candidate biomarkers, followed by the decoding of the function developed in the tumor. 
