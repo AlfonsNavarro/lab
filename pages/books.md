@@ -5,11 +5,11 @@ title: Books
 
 # Book chapters
 
-Acosta-Plasencia, M. et al. (2022). Patient-Derived Organoids as a Stem Cell Model to Study Lung Cancer. In: Interdisciplinary Cancer Research. Springer, Cham. https://doi.org/10.1007/16833_2022_78
+Acosta-Plasencia, M. et al. (2022). Patient-Derived Organoids as a Stem Cell Model to Study Lung Cancer. In: Interdisciplinary Cancer Research. Springer, Cham. DOI:[10.1007/16833_2022_78](https://doi.org/10.1007/16833_2022_78)
 
-<p>
 
-Acosta-Plasencia, M. et al. (2023). POTENTIAL OF PATIENT DERIVED ORGANOIDS AND OTHER 3D CULTURE MODELS TO ASSESS IMMUNOTHERAPY RESPONSE IN CANCER. In: HANDBOOK OF CANCER AND IMMUNOLOGY. Springer. <i>In Press</i>
+
+Acosta-Plasencia, M. et al. (2023). POTENTIAL OF PATIENT DERIVED ORGANOIDS AND OTHER 3D CULTURE MODELS TO ASSESS IMMUNOTHERAPY RESPONSE IN CANCER. In: HANDBOOK OF CANCER AND IMMUNOLOGY. Springer. *In Press*.
 
 
 
