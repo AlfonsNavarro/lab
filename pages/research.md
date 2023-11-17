@@ -47,6 +47,10 @@ Clinical and Translational Oncology 10 (10), 628-637.
 
 #### Editorials
 
+-[Editorial: Evolving roles of piRNAs in solid tumors.](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1178634/full)
+Ng L, Navarro A and Law W-L 
+Front. Oncol. 2023, 13:1178634. doi: 10.3389/fonc.2023.1178634
+
 -[Deciphering miRNA–Target Relationships to Understand miRNA-Mediated Carcinogenesis.](https://www.mdpi.com/2072-6694/13/10/2415)
 A Navarro.
 Cancers 2021, 13(10), 2415.
