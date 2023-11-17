@@ -27,7 +27,7 @@ You can buy a hard copy of the book [here](https://www.springer.com/gp/book/9781
 
 ![book cover]({{site.base.url}}/assets/img/lncRNA_book_Springer.png){:height="30%" width="30%"}
 
-## Role of miRNAs in Cancer—Analysis of Their Targetome
+### Role of miRNAs in Cancer—Analysis of Their Targetome
 
 MicroRNAs are the best representatives of the non-coding part of the genome
 and their functions are mostly linked to their target genes. During the process
@@ -41,7 +41,7 @@ You can download a free copy of the book [here](https://www.mdpi.com/books/pdfvi
 
 ![book cover]({{site.base.url}}/assets/img/Cancers_Special_issue_book_2.png){:height="30%" width="30%"}
 
-## The Role of ncRNAs in Solid Tumors Prognosis: from Laboratory to Clinical Utility
+### The Role of ncRNAs in Solid Tumors Prognosis: from Laboratory to Clinical Utility
 
 In this book produced based on the aportations to our Research Topic, we would like to present the recent advances on the roles of ncRNAs on tumorigenesis, metastasis, chemoresistance, radioresistance as well as their potential clinical applications in solid cancers. 
 
