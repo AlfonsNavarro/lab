@@ -5,16 +5,19 @@ title: Books
 
 # Book chapters
 
+### Interdisciplinary Cancer Research
+
 Melissa Acosta-Plasencia, Joan J. Castellano, Alison M. Taylor, Yangyi He, Daniel Martínez, Mariano Monzo, Ramón M. Marrades & Alfons Navarro.(2022). **Patient-Derived Organoids as a Stem Cell Model to Study Lung Cancer.** In: Interdisciplinary Cancer Research. Springer, Cham. DOI:[10.1007/16833_2022_78](https://doi.org/10.1007/16833_2022_78)
 
 
+### Handbook of Cancer Immunology
 
 Acosta-Plasencia, Phillip Menauer, Ramón M. Marrades, Alfons Navarro.(2023). **Potential of patient derived organoids and other 3D culture models to assess immunotherapy response in cancer.** In: HANDBOOK OF CANCER AND IMMUNOLOGY. Springer. *In Press*.
 
 
-# Books 
+# Edited Books 
 
-## Long Non-Coding RNAs in Cancer
+### Long Non-Coding RNAs in Cancer
 
 This book tries to summarize with laboratory protocols, bioinformatic pipelines and review chapters, the main steps performed from translational researchers that from a patient tumor tissue or tumor cells, decides to identify and study tumorigenic lncRNAs. Beginning with the identification (profiling phase) and validation of candidate biomarkers, followed by the decoding of the function developed in the tumor. 
 
