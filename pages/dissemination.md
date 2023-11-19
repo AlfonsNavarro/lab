@@ -5,15 +5,16 @@ title: Dissemination
 
 # Contents
 - [Associations](#associations) 
-- [Internal seminaries and invited talks](#Internal-seminaries-and-invited-talks)
-- [Invited talks](#Invited-talks)
+- [Internal seminaries and invited talks](#internal-seminaries-and-invited-talks)
+- [Invited talks](#invited-talks)
 - [Forces project](#forces-project) 
 
 - [TFG](#TFG)
-- [Jury member of doctoral dissertations](#Jury-member-of-doctoral-dissertations)
-- [JURY member of final degree thesis awards](#JURY-member-of-final-degree-thesis-awards)
-- [Internazionalization](#Internazionalization)
-- [Networking](#Networking)
+
+- [Jury member of doctoral dissertations](#jury-member-of-doctoral-dissertations)
+- [JURY member of final degree thesis awards](#jury-member-of-final-degree-thesis-awards)
+- [Internazionalization](#internazionalization)
+- [Networking](#networking)
 
 
 
