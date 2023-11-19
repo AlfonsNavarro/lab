@@ -59,7 +59,7 @@ Foto del panfleto...
 [XVI EDITION OF THE GEMMA ROSSELL i ROMERO RESEARCH AWARD](https://www.premigemmarr.com/english/)
 Participation as a jury member of the The Gemma Rosell i Romero Students´ Research Award to the best final degree thesis.
 
-![Logo Gemma Rossell]({{site.base.url}}/assets/img/Gemma_Rossell_logo.jpeg){:height="30%" width="30%"}
+![Logo Gemma Rossell]({{site.base.url}}/lab/assets/img/Gemma_Rossell_logo.jpeg){:height="30%" width="30%"}
 
 The Gemma Rosell i Romero Students´ Research Award aims to reward students who devote part of their time at university to do biomedical research, even when it may be very difficult to combine with their own studies.
 
