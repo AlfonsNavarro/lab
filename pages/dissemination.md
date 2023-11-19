@@ -4,8 +4,16 @@ title: Dissemination
 ---
 
 # Contents
- - [Associations](#associations) 
- - [Forces project](#forces-project) 
+- [Associations](#associations) 
+- [Internal seminaries and invited talks](#Internal_seminaries_and_invited_talks)
+- [Invited talks](#Invited_talks)
+- [Forces project](#forces-project) 
+
+- [TFG](#TFG)
+- [Jury member of doctoral dissertations](#Jury_member_of_doctoral_dissertations)
+- [JURY member of final degree thesis awards](#JURY_member_of_final_degree_thesis_awards)
+- [Internazionalization](#Internazionalization)
+- [Networking](#Networking)
 
 
 
@@ -92,5 +100,5 @@ Internationalization is an essential requirement for high-quality research. Coll
 
 We have also a large experience in collaborating with international companies through research projects and contracts (see below).
 
-# NetworkingLogos
+# Networking
 
