@@ -49,7 +49,9 @@ Fotos???
 
 # FORCES project 
 
-Link a la pàgina del projecte.
+[Link a la pàgina del projecte.](https://www.ub.edu/cere/forces/)
+
+![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="30%" width="30%"}
 
 Alumnes agafats per cada any i títol del projecte
 
