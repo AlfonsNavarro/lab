@@ -5,13 +5,13 @@ title: Dissemination
 
 # Contents
 - [Associations](#associations) 
-- [Internal seminaries and invited talks](#Internal_seminaries_and_invited_talks)
-- [Invited talks](#Invited_talks)
+- [Internal seminaries and invited talks](#Internal-seminaries-and-invited-talks)
+- [Invited talks](#Invited-talks)
 - [Forces project](#forces-project) 
 
 - [TFG](#TFG)
-- [Jury member of doctoral dissertations](#Jury_member_of_doctoral_dissertations)
-- [JURY member of final degree thesis awards](#JURY_member_of_final_degree_thesis_awards)
+- [Jury member of doctoral dissertations](#Jury-member-of-doctoral-dissertations)
+- [JURY member of final degree thesis awards](#JURY-member-of-final-degree-thesis-awards)
 - [Internazionalization](#Internazionalization)
 - [Networking](#Networking)
 
@@ -88,7 +88,7 @@ On this way, we hope humbly to contribute to the advancement of science in our c
 
 # Internazionalization
 
-PArticipació en Panells internacionals Polonia i en revisió de beques...
+Participació en Panells internacionals Polonia i en revisió de beques...
 
 copiat..però per agafar idea i posar al peu del texte els logos empreses o universitats
 
