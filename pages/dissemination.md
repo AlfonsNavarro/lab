@@ -9,7 +9,7 @@ title: Dissemination
 - [Invited talks](#invited-talks)
 - [Forces project](#forces-project) 
 
-- [TFG](#TFG)
+- [TFG](#tfg)
 
 - [Jury member of doctoral dissertations](#jury-member-of-doctoral-dissertations)
 - [JURY member of final degree thesis awards](#jury-member-of-final-degree-thesis-awards)
@@ -18,7 +18,7 @@ title: Dissemination
 
 
 
-# Associatons
+# Associations
 
 Copiat, però serveix per agafar la idea
 
