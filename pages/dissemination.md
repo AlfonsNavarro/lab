@@ -209,6 +209,7 @@ We have also a large experience in collaborating with international companies th
 
 The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbarcelona.org/en/idibaps/areas-and-programs/respiratory-cardiovascular-and-renal-pathobiology-and-bioengineering/inflammation-and-repair-in-respiratory-diseases) is involved in the study of lung development and ageing as key pathogenic determinants of adulthood respiratory diseases and Early lung cancer (LC) diagnosis and prognosis. 
 
+![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="30%" width="30%"}
 
 ### Member of the Thoracic Oncology unit of Hospital Clínic of Barcelona
 
