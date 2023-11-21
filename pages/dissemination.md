@@ -4,11 +4,11 @@ title: Dissemination
 ---
 
 # Contents
+- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#UB-Hospital-Clinic-Chair-on-Lung-Cancer-AstraZeneca)
 - [Associations](#associations) 
 - [Internal seminaries and invited talks](#internal-seminaries-and-invited-talks)
 - [Invited talks](#invited-talks)
 - [Forces project](#forces-project) 
-- [UB-Hospital Clínic Chair on Lung Cancer AstraZeneca](#UB-Hospital-Clínic-Chair-on-Lung-Cancer-AstraZeneca)
 - [TFG](#tfg)
 
 - [Jury member of doctoral dissertations](#jury-member-of-doctoral-dissertations)
@@ -19,22 +19,22 @@ title: Dissemination
 
 Para más detalles a incluir revisar Documento enviado a SGR!!!
 
-## UB-Hospital Clínic Chair on Lung Cancer AstraZeneca
+## UB-Hospital Clinic Chair on Lung Cancer AstraZeneca
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
 
-$\colorbox{gray}{*“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**}$
-*“...it is necessary to make advances in the dissemination and transfer of this knowledge to reach a better training for our students and professionals in the health field, as well as to provide our patients and families with better information through social actions such as the ones this new chair will carry out”.* - **Dr. Mariano Monzó, Chair director**
+Chair Members: Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
 
-
-Logos de les tres empreses participants.
 
 ![Foto Catedra]({{site.base.url}}/lab/assets/img/Catedra_pulmo.png){:height="50%" width="50%"}
 
 
-Chair Members: Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
+**Testimonials:**
 
-Comentar los objetivos de la catedra.
+*“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**
+
+*“...it is necessary to make advances in the dissemination and transfer of this knowledge to reach a better training for our students and professionals in the health field, as well as to provide our patients and families with better information through social actions such as the ones this new chair will carry out”.* - **Dr. Mariano Monzó, Chair director**
+
 
 **Published News in relation to the Lung Cancer Chair:**
 
