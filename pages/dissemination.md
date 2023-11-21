@@ -213,7 +213,7 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 ### Member of the Thoracic Oncology unit of Hospital Clínic of Barcelona
 
 
-*[The Thoracic Oncology Unit]*(https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
+[The Thoracic Oncology Unit](https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
 
 The Unit includes six transversal axes focused on diagnosis, treatment, clinical research, translational research and teaching in lung cancer and other thoracic tumors.
 
