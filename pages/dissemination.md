@@ -23,8 +23,7 @@ Para más detalles a incluir revisar Documento enviado a SGR!!!
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
 
-*“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**
-
+$\colorbox{gray}{*“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**}$
 *“...it is necessary to make advances in the dissemination and transfer of this knowledge to reach a better training for our students and professionals in the health field, as well as to provide our patients and families with better information through social actions such as the ones this new chair will carry out”.* - **Dr. Mariano Monzó, Chair director**
 
 
@@ -53,7 +52,7 @@ Comentar los objetivos de la catedra.
 ## Participació en programa ICE
 Posar link a la pàgina i citar els abstracts enviats en els que sortim.
 
-# El)IP)participa)como)experto,extranjero en)los)siguientes)paneles,de,evaluación,para)
+## El IP participa como experto,extranjero en los siguientes paneles,de,evaluación,para
 National Science Centre,)Poland (NCN):
 ! Panel)NZ2)(Genetics,)Genomics))de)becas)OPUS)y)PRELUDIUM)convocatorias)2019)y)
 2020.
