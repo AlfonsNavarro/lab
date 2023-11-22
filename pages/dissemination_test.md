@@ -216,6 +216,8 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 
 [The Thoracic Oncology Unit](https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
 
+![Logo Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="20%" width="20%"}
+
 The Unit includes six transversal axes focused on diagnosis, treatment, clinical research, translational research and teaching in lung cancer and other thoracic tumors.
 
 The thirty components of the Unit are structured in fifteen core cores, defined by three main working groups: operational, support and research. The Operational Group is made up of all the members and services that participate daily in the diagnosis and therapeutic decision making and constitute the Thoracic Tumor Committee. The support and research groups include other healthcare professionals associated with the pathology, as well as *basic and translational research groups linked to the University of Barcelona* and the August Pi i Sunyer Biomedical Research Institute (IDIBAPS).
