@@ -216,7 +216,7 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 
 [The Thoracic Oncology Unit](https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
 
-![Logo Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="20%" width="20%"}
+![Logo Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="30%" width="30%"}
 
 The Unit includes six transversal axes focused on diagnosis, treatment, clinical research, translational research and teaching in lung cancer and other thoracic tumors.
 
@@ -233,7 +233,7 @@ Indica aquí les publicacions en les que he particiapt en el context d'aquest gr
 
 Our group collaborate since 2021 with the [International Collaboration and Exchange Program (ICEP)](https://www.internationalcollaborationexchange.org) directed by Dr. Anette Wu from Columbia University. The program in the UB is coordinated by Dra. Neus Martínez Abadias from Faculty of Biology and Dr. Alfons Navarro is the supervisor of the program in the Grade of Medicine - Campus Clinic. 
 
-![Logo ICEP]({{site.base.url}}/lab/assets/img/logos/Logotip_ICEP.jpeg){:height="30%" width="30%"}
+![Logo ICEP]({{site.base.url}}/lab/assets/img/logos/Logotip_ICEP.jpeg){:height="25%" width="25%"}
 
 
 This is mainly an online program with the goal to help improve our global healthcare world by preparing future medical, dental and healthcare leaders via Internationalization of Medical and Health Profession Education utilizing early international networking, collaboration and exchange. 
@@ -258,6 +258,6 @@ Philipp Menauer - University of Munich, September-November 2023.
 
 4. R. Patel, R. Goel, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Green,G Noel, A Wu. The importance of culture amongst medical and health professions students - a collaborative study from 20 universities. Short Communication. Annual Conference of the Association for Medical Educators in Europe (AMEE), Lyon, France, August 27-31,2021
 
-5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta,J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. Annual Conference of the Association for Medical Educators in Europe (AMEE), Lyon, France, August 27-31,2021
+5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. Annual Conference of the Association for Medical Educators in Europe (AMEE), Lyon, France, August 27-31,2021
 
 
