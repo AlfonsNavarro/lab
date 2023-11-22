@@ -36,7 +36,7 @@ nav-links:
     People: "pages/people.html"
     Research: "pages/research.html"
     Books: "pages/books.html"
-    #Dissemination: "/pages/dissemination.html"
+    Dissemination: "/pages/dissemination.html"
     #Teaching: "pages/teaching.html"
     #Editorial activity: "pages/editorial.html"
     Grants: "pages/grants.html"
