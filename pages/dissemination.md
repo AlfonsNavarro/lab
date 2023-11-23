@@ -6,9 +6,9 @@ title: Dissemination
 # Knowledge dissemination
 
 ## Contents
-- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#ub-hospital-clinic-chair-on-lung-cancer-astrazeneca)
+- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#chair-on-lung-cancer-astrazeneca)
 - [Networking](#networking)
-	- [IDIBAPS](#idibaps-group-of-inflamation-and-iepair-in-respiratory-diseases)
+	- [IDIBAPS](#idibaps-group-of-inflamation-and-repair-in-respiratory-diseases)
 	- [Thoracic Oncology Unit - HCB](#thoracic-oncology-unit-of-hospital-clínic-of-barcelona)
 	- [The Society for Translational Medicine](#the-society-for-translational-medicine)
 	- [International Collaboration and Exchange Program](#international-collaboration-and-exchange-program)
