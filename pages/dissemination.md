@@ -52,6 +52,8 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 
 ![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
 
+
+
 ### Thoracic Oncology unit of Hospital Clínic of Barcelona
 
 
@@ -69,6 +71,9 @@ The thirty components of the Unit are structured in fifteen core cores, defined 
 
 The [The Society for Translational Medicine](https://www.thestm.org) committee is consisted of the AME Academic Cooperative Group, initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
 
+![Logo TSTM]({{site.base.url}}/lab/assets/img/logos/Logotip_TSTM.jpeg){:height="50%" width="50%"}
+
+
 After years of development, the AME Academic Cooperative Group (AACG) has grown into a number of subgroups ([AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)) in various academic and clinical fields and **our group participates in the following groups**: 
 
 - [AME Thoracic Surgery Collaborative Group](https://www.thestm.org/aacg/11)
@@ -76,7 +81,8 @@ After years of development, the AME Academic Cooperative Group (AACG) has grown 
 
 These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
 
-#### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
+
+### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
 
 Our group collaborate since 2021 with the [International Collaboration and Exchange Program (ICEP)](https://www.internationalcollaborationexchange.org) directed by Dr. Anette Wu from Columbia University. The program in the UB is coordinated by Dra. Neus Martínez Abadias from Faculty of Biology and Dr. Alfons Navarro is the supervisor of the program in the Grade of Medicine - Campus Clinic. 
 
