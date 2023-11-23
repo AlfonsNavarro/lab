@@ -2,7 +2,7 @@
 layout: template1
 title: Dissemination
 ---
-
+<a name="top"></a>
 # Contents
 - [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#item1)
 - [Associations](#item2) 
@@ -53,7 +53,7 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 - [El Médico interactivo mew's: "Nueva cátedra de transferencia de conocimientos en cáncer de pulmón"](https://elmedicointeractivo.com/nueva-catedra-de-transferencia-de-conocimientos-en-cancer-de-pulmon/)
 
-
+[Subir](#top)
 
 ## Participació en programa ICE
 Posar link a la pàgina i citar els abstracts enviats en els que sortim.
