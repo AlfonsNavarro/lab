@@ -257,25 +257,16 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 
 5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. **Annual Conference of the Association for Medical Educators in Europe (AMEE).** Lyon, France, August 27-31,2021
 
-### Member of The Society for Translational Medicine 
+### The Society for Translational Medicine 
 
-[The Society for Translational Medicine](https://www.thestm.org)
+The [The Society for Translational Medicine](https://www.thestm.org) committee is consisted of the AME Academic Cooperative Group, initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
 
-Indica aquí les publicacions en les que he particiapt en el context d'aquest grup
-[AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)
+After years of development, the AME Academic Cooperative Group (AACG) has grown into a number of subgroups ([AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)) in various academic and clinical fields and **our group participates in the following groups**: 
 
 - [AME Thoracic Surgery Collaborative Group](https://www.thestm.org/aacg/11)
 - [AME Lung Cancer Collaborative Group](https://www.thestm.org/aacg/1)
 
-(https://www.thestm.org/about/internationAdvisoryCommitee)
-
-Committee (AACG)
-The STM committee is consisted of the AME Academic Cooperative Group (AACG), initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
-
-After years of development, the AACG Group has grown into a number of subgroups in various academic and clinical fields, e.g. AME Thoracic Surgery Cooperative Group, AME Cardiac Surgery Cooperative Group, AME Gastrointestinal Surgery Cooperative Group, AME Lung Cancer Cooperative Group, AME Critical Care Cooperative Group etc.
-
 These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
-
 
 ### Col·laboración con ANNAIDA
 

@@ -18,6 +18,7 @@ To create synergies to promote, share and disseminate the knowledge on the devel
 
 | ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
 
+
 **Chair Members:** 
 Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
 
@@ -45,13 +46,13 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 ## Networking
 
-### Member of the IDIBAPS group Inflamation and Repair in Respiratory diseases
+### IDIBAPS group of Inflamation and Repair in Respiratory diseases
 
 The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbarcelona.org/en/idibaps/areas-and-programs/respiratory-cardiovascular-and-renal-pathobiology-and-bioengineering/inflammation-and-repair-in-respiratory-diseases) is involved in the study of lung development and ageing as key pathogenic determinants of adulthood respiratory diseases and Early lung cancer diagnosis and prognosis. 
 
 ![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
 
-### Member of the Thoracic Oncology unit of Hospital Clínic of Barcelona
+### Thoracic Oncology unit of Hospital Clínic of Barcelona
 
 
 [The Thoracic Oncology Unit](https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
@@ -63,6 +64,17 @@ The Unit includes six transversal axes focused on diagnosis, treatment, clinical
 
 The thirty components of the Unit are structured in fifteen core cores, defined by three main working groups: operational, support and research. The Operational Group is made up of all the members and services that participate daily in the diagnosis and therapeutic decision making and constitute the Thoracic Tumor Committee. The support and research groups include other healthcare professionals associated with the pathology, as well as *basic and translational research groups linked to the University of Barcelona* and the August Pi i Sunyer Biomedical Research Institute (IDIBAPS).
 
+
+### The Society for Translational Medicine 
+
+The [The Society for Translational Medicine](https://www.thestm.org) committee is consisted of the AME Academic Cooperative Group, initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
+
+After years of development, the AME Academic Cooperative Group (AACG) has grown into a number of subgroups ([AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)) in various academic and clinical fields and **our group participates in the following groups**: 
+
+- [AME Thoracic Surgery Collaborative Group](https://www.thestm.org/aacg/11)
+- [AME Lung Cancer Collaborative Group](https://www.thestm.org/aacg/1)
+
+These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
 
 #### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
 
@@ -94,3 +106,6 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 4. R. Patel, R. Goel, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Green,G Noel, A Wu. The importance of culture amongst medical and health professions students - a collaborative study from 20 universities. Short Communication. **Annual Conference of the Association for Medical Educators in Europe (AMEE)**. Lyon, France, August 27-31,2021
 
 5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. **Annual Conference of the Association for Medical Educators in Europe (AMEE).** Lyon, France, August 27-31,2021
+
+
+
