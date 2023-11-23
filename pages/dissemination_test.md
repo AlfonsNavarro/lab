@@ -24,7 +24,7 @@ Para más detalles a incluir revisar Documento enviado a SGR!!!
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
 
 
-| ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="25%" width="25%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="25%" width="25%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="25%" width="25%"} |
+| ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
 
 **Chair Members:** 
 Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
@@ -110,11 +110,11 @@ Alumnes agafats per cada any i títol del projecte
 Premis que han obtingut aquests alumnes.
 
 
-Participación(en(Proyecto(FORCES((Fomento(de(la(investigación(educativa(en(
-secundaria).(En(la(edición(de(2019(se(tutorizó el(trabajo(de(investigación(de(
-bachillerato(de(Jaume(Meinhart.(El(trabajo(fue(galardonado(con(el(Primer(premio(de(
-los(Premios*UManresa a*trabajos*de*investigación*de*bachillerato:*
-https://www.ub.edu/portal/web/medicinaXcienciesXsalut/detall/X/detall/unXalumneXdelXprojecteXforcesXguanyaXelX1rXpremiXdelsX
+Participación en Proyecto FORCES  Fomento de la investigación educativa en 
+secundaria). En la edición de 2019 se tutorizó el trabajo de investigación de 
+bachillerato de Jaume Meinhart. El trabajo fue galardonado con el Primer premio de 
+los Premios*UManresa a*trabajos*de*investigación*de*bachillerato:*
+(https://www.ub.edu/portal/web/medicina_cienciesXsalut/detall/X/detall/unXalumneXdelXprojecteXforcesXguanyaXelX1rXpremiXdelsX)
 premisXumanresaXaXtreballsXdeXrecercaXdeXbatxillerat.
 
 # TFG
