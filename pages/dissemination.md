@@ -73,7 +73,7 @@ This is mainly an online program with the goal to help improve our global health
 
 Additionally, selected students can perform In person Travel Exchange. Our lab have hosted the following students:
 
-- Philipp Menauer - University of Munich, September-November 2023.
+- Philipp Menauer - Medical student from University of Munich, September-November 2023.
 
 
 **Participation in Conferences with ICEP group:**
