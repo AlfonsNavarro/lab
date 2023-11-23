@@ -8,7 +8,10 @@ title: Dissemination
 ## Contents
 - [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#UB-Hospital-Clinic-Chair-on-Lung-Cancer-AstraZeneca)
 - [Networking](#networking)
-
+	- [IDIBAPS](#IDIBAPS-group-of-Inflamation-and-Repair-in-Respiratory-diseases)
+	- [Thoracic Oncology Unit - HCB](#Thoracic-Oncology-unit-of-Hospital-Clínic-of-Barcelona)
+	- [The Society for Translational Medicine](#The-Society-for-Translational-Medicine)
+	- [International Collaboration and Exchange Program](#International-Collaboration-and-Exchange-Program
 
 
 ## UB-Hospital Clinic Chair on Lung Cancer AstraZeneca
@@ -71,7 +74,7 @@ The thirty components of the Unit are structured in fifteen core cores, defined 
 
 The [The Society for Translational Medicine](https://www.thestm.org) committee is consisted of the AME Academic Cooperative Group, initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
 
-![Logo TSTM]({{site.base.url}}/lab/assets/img/logos/Logotip_TSTM.jpeg){:height="50%" width="50%"}
+![Logo TSTM]({{site.base.url}}/lab/assets/img/logos/Logotip_TSTM.jpeg){:height="20%" width="20%"}
 
 
 After years of development, the AME Academic Cooperative Group (AACG) has grown into a number of subgroups ([AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)) in various academic and clinical fields and **our group participates in the following groups**: 
