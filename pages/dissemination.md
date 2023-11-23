@@ -15,6 +15,9 @@ title: Dissemination
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
 
+
+| ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
+
 **Chair Members:** 
 Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
 
@@ -40,8 +43,7 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 - [El Médico interactivo mew's: "Nueva cátedra de transferencia de conocimientos en cáncer de pulmón"](https://elmedicointeractivo.com/nueva-catedra-de-transferencia-de-conocimientos-en-cancer-de-pulmon/)
 
-
-# Networking
+## Networking
 
 ### Member of the IDIBAPS group Inflamation and Repair in Respiratory diseases
 
