@@ -4,8 +4,8 @@ title: Dissemination
 ---
 
 # Contents
-- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#UB-Hospital-Clinic-Chair-on-Lung-Cancer-AstraZeneca)
-- [Associations](#associations) 
+- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#item1)
+- [Associations](#item2) 
 - [Internal seminaries and invited talks](#internal-seminaries-and-invited-talks)
 - [Invited talks](#invited-talks)
 - [Forces project](#forces-project) 
@@ -19,6 +19,8 @@ title: Dissemination
 
 Para más detalles a incluir revisar Documento enviado a SGR!!!
 
+
+<a name="item1"></a>
 ## UB-Hospital Clinic Chair on Lung Cancer AstraZeneca
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
@@ -32,7 +34,7 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 ![Foto Catedra]({{site.base.url}}/lab/assets/img/Catedra_pulmo.png){:height="50%" width="50%"}
 
-
+<a name="item2"></a>
 **Testimonials:**
 
 *“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**
