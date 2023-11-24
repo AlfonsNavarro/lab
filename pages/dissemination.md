@@ -3,6 +3,7 @@ layout: template1
 title: Dissemination
 ---
 
+<a name="top"></a>
 # Knowledge dissemination
 
 ## Contents
@@ -21,14 +22,14 @@ To create synergies to promote, share and disseminate the knowledge on the devel
 
 | ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
 
-
+<br/>
 **Chair Members:** 
 Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
 
 
 ![Foto Catedra]({{site.base.url}}/lab/assets/img/Catedra_pulmo.png){:height="50%" width="50%"}
 
-
+<br/>
 **Testimonials:**
 
 *“We are proud of being participants in its creation and glad to contribute to the knowledge transfer in order to make progresses in the treatment of lung cancer as well as to improve the life of patients. We believe continuous training of health professionals is essential in order to keep improving oncological assistance, and given the impact of the illness, we are glad to be part of this project together with the University of Barcelona and Hospital Clínic”.* - **Guillem Bruch, head of Oncology at Astrazeneca Spain**
@@ -47,6 +48,9 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 - [El Médico interactivo mew's: "Nueva cátedra de transferencia de conocimientos en cáncer de pulmón"](https://elmedicointeractivo.com/nueva-catedra-de-transferencia-de-conocimientos-en-cancer-de-pulmon/)
 
+
+[Top](#top)
+
 ## Networking
 
 ### IDIBAPS group of Inflamation and Repair in Respiratory diseases
@@ -56,6 +60,7 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 ![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
 
 
+[Top](#top)
 
 ### Thoracic Oncology unit of Hospital Clínic of Barcelona
 
@@ -69,6 +74,7 @@ The Unit includes six transversal axes focused on diagnosis, treatment, clinical
 
 The thirty components of the Unit are structured in fifteen core cores, defined by three main working groups: operational, support and research. The Operational Group is made up of all the members and services that participate daily in the diagnosis and therapeutic decision making and constitute the Thoracic Tumor Committee. The support and research groups include other healthcare professionals associated with the pathology, as well as *basic and translational research groups linked to the University of Barcelona* and the August Pi i Sunyer Biomedical Research Institute (IDIBAPS).
 
+[Top](#top)
 
 ### The Society for Translational Medicine 
 
@@ -84,6 +90,7 @@ After years of development, the AME Academic Cooperative Group (AACG) has grown 
 
 These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
 
+[Top](#top)
 
 ### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
 
@@ -116,5 +123,5 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 
 5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. **Annual Conference of the Association for Medical Educators in Europe (AMEE).** Lyon, France, August 27-31,2021
 
-
+[Top](#top)
 
