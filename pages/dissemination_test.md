@@ -103,15 +103,19 @@ XXXIII-Aspectos-Generales-y-de-Investigación-básica-en-cáncer-de-Mama-= Semin
 
 # FORCES project 
 
-[Link a la pàgina del projecte.](https://www.ub.edu/cere/forces/)
+Our group participates in the [FORCES Project](https://www.ub.edu/cere/forces/) (Promotion of educational research in secondary education) of University of Barcelona. 
+secondary school).
 
-![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="30%" width="30%"}
+![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="50%" width="50%"}
 
 Alumnes agafats per cada any i títol del projecte
 
 Premis que han obtingut aquests alumnes.
 
-
+Participation in the FORCES Project (Promotion of educational research in secondary education). 
+secondary school). In the 2019 edition, the research work of Jaume Meinhart was tutored. 
+research work of Jaume Meinhart. The work was awarded with the first prize of the 
+the*UManresa*awards*for*high*secondary*research*work:*
 Participación en Proyecto FORCES  Fomento de la investigación educativa en 
 secundaria). En la edición de 2019 se tutorizó el trabajo de investigación de 
 bachillerato de Jaume Meinhart. El trabajo fue galardonado con el Primer premio de 

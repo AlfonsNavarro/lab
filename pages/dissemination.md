@@ -4,17 +4,19 @@ title: Dissemination
 ---
 
 <a name="top"></a>
+<br/>
 # Knowledge dissemination
 
 ## Contents
-- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#chair-on-lung-cancer-astrazeneca)
+- [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#chair)
 - [Networking](#networking)
 	- [IDIBAPS](#idibaps-group-of-inflamation-and-repair-in-respiratory-diseases)
 	- [Thoracic Oncology Unit - HCB](#thoracic-oncology-unit-of-hospital-clínic-of-barcelona)
 	- [The Society for Translational Medicine](#the-society-for-translational-medicine)
 	- [International Collaboration and Exchange Program](#international-collaboration-and-exchange-program)
 
-
+<a name="chair"></a>
+<br/>
 ## UB-Hospital Clinic Chair on Lung Cancer AstraZeneca
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
@@ -49,7 +51,7 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 - [El Médico interactivo mew's: "Nueva cátedra de transferencia de conocimientos en cáncer de pulmón"](https://elmedicointeractivo.com/nueva-catedra-de-transferencia-de-conocimientos-en-cancer-de-pulmon/)
 
 
-[Top](#top)
+[Back to Top](#top)
 
 ## Networking
 
@@ -60,7 +62,7 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 ![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
 
 
-[Top](#top)
+[Back to Top](#top)
 
 ### Thoracic Oncology unit of Hospital Clínic of Barcelona
 
@@ -74,7 +76,7 @@ The Unit includes six transversal axes focused on diagnosis, treatment, clinical
 
 The thirty components of the Unit are structured in fifteen core cores, defined by three main working groups: operational, support and research. The Operational Group is made up of all the members and services that participate daily in the diagnosis and therapeutic decision making and constitute the Thoracic Tumor Committee. The support and research groups include other healthcare professionals associated with the pathology, as well as *basic and translational research groups linked to the University of Barcelona* and the August Pi i Sunyer Biomedical Research Institute (IDIBAPS).
 
-[Top](#top)
+[Back to Top](#top)
 
 ### The Society for Translational Medicine 
 
@@ -90,7 +92,7 @@ After years of development, the AME Academic Cooperative Group (AACG) has grown 
 
 These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
 
-[Top](#top)
+[Back to Top](#top)
 
 ### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
 
@@ -123,5 +125,5 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 
 5. L Tudor, J Vigoda, A Adeniyi, C Brassett, S McWatt, M Gill Sagoo, R Wingate, CL Chien, H Traxler, J Waschke, F Vielmuth, A Sigmund, T Sakurai, Y Yamada, M Zeroual, J Olsen, S El Batti, S Viranta-Kovanen, K Keay, S Kitahara, N Martinez-Abadias, **A Navarro**, JM de Anta, J Helms, C Sforza, N Gagliano, M Norris, D Harmon, M Yasui, M Ichiko, S Lee, S Reid, A Lang, C Kunzel, M Joseph, L Buehler, M Hardy, S Patel, P Bernd, H Kielstein, A Wu, G Noel. Experiential factors affecting the empathy of pre-clinical healthcare students across 21 international universities. Short Communication. **Annual Conference of the Association for Medical Educators in Europe (AMEE).** Lyon, France, August 27-31,2021
 
-[Top](#top)
+[Back to Top](#top)
 
