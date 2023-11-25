@@ -108,20 +108,19 @@ secondary school).
 
 <a href="https://www.ub.edu/cere/forces/" rel="Forces web page">![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="60%" width="60%"}</a>
 
-Alumnes agafats per cada any i títol del projecte
 
-Premis que han obtingut aquests alumnes.
+We have supervised the following students under FORCES innvoation project:
 
-Participation in the FORCES Project (Promotion of educational research in secondary education). 
-secondary school). In the 2019 edition, the research work of Jaume Meinhart was tutored. 
-research work of Jaume Meinhart. The work was awarded with the first prize of the 
-the*UManresa*awards*for*high*secondary*research*work:*
-Participación en Proyecto FORCES  Fomento de la investigación educativa en 
-secundaria). En la edición de 2019 se tutorizó el trabajo de investigación de 
-bachillerato de Jaume Meinhart. El trabajo fue galardonado con el Primer premio de 
-los Premios*UManresa a*trabajos*de*investigación*de*bachillerato:*
-(https://www.ub.edu/portal/web/medicina_cienciesXsalut/detall/X/detall/unXalumneXdelXprojecteXforcesXguanyaXelX1rXpremiXdelsX)
-premisXumanresaXaXtreballsXdeXrecercaXdeXbatxillerat.
+- 2019 edition - Jaume Meinhart Catalan, *"Cancer genetics. Study of the EGFR gene in lung cancer".*
+
+	- Awards: 
+			1. [First prize of UManresa awards for high secondary research work](https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/un-alumne-del-projecte-forces-guanya-el-1r-premi-dels-premis-umanresa-a-treballs-de-recerca-de-batxillerat.)
+			2. [Premio en la 22a edición de los premios a los mejores trabajos de Investigación de Bachillerato, que convoca la UVic-UCC](https://www.ub.edu/idp/web/es/node/2214/)
+
+- 2020 edition - Lucía Alejandre Oro y Guillem Crego Vich, *"Are we destined to suffer from cancer? How it affects us in body and mind"*.
+	- Awards:
+		1.  [Certamen Atenea 2021 de treballs de recerca de 2n de batxillerat](https://serveiseducatius.xtec.cat/vallesoccidental8/general/certamen-atenea-2021-de-treballs-de-recerca-de-2n-de-batxillerat/)
+
 
 # TFG
 

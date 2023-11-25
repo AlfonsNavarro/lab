@@ -9,14 +9,16 @@ title: Dissemination
 
 ## Contents
 - [UB-Hospital Clinic Chair on Lung Cancer AstraZeneca](#chair)
-- [Networking](#networking)
-	- [IDIBAPS](#idibaps-group-of-inflamation-and-repair-in-respiratory-diseases)
-	- [Thoracic Oncology Unit - HCB](#thoracic-oncology-unit-of-hospital-clínic-of-barcelona)
-	- [The Society for Translational Medicine](#the-society-for-translational-medicine)
-	- [International Collaboration and Exchange Program](#international-collaboration-and-exchange-program)
+- [Networking](#net)
+	- [IDIBAPS](#idibaps)
+	- [Thoracic Oncology Unit - HCB](#thoracic)
+	- [The Society for Translational Medicine](#translational)
+	- [International Collaboration and Exchange Program](#icep)
+- [FORCES project - Promotion of educational research in secondary education](#forces)
 
 <a name="chair"></a>
 <br/>
+
 ## UB-Hospital Clinic Chair on Lung Cancer AstraZeneca
 
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
@@ -53,7 +55,14 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 [Back to Top](#top)
 
+
+<a name="net"></a>
+<br/>
+
 ## Networking
+
+<a name="idibaps"></a>
+<br/>
 
 ### IDIBAPS group of Inflamation and Repair in Respiratory diseases
 
@@ -63,6 +72,9 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 
 
 [Back to Top](#top)
+
+<a name="thoracic"></a>
+<br/>
 
 ### Thoracic Oncology unit of Hospital Clínic of Barcelona
 
@@ -77,6 +89,9 @@ The Unit includes six transversal axes focused on diagnosis, treatment, clinical
 The thirty components of the Unit are structured in fifteen core cores, defined by three main working groups: operational, support and research. The Operational Group is made up of all the members and services that participate daily in the diagnosis and therapeutic decision making and constitute the Thoracic Tumor Committee. The support and research groups include other healthcare professionals associated with the pathology, as well as *basic and translational research groups linked to the University of Barcelona* and the August Pi i Sunyer Biomedical Research Institute (IDIBAPS).
 
 [Back to Top](#top)
+
+<a name="translational"></a>
+<br/>
 
 ### The Society for Translational Medicine 
 
@@ -93,6 +108,9 @@ After years of development, the AME Academic Cooperative Group (AACG) has grown 
 These subject-based divisions encapsulate a holistic, evidence-driven, and patient-focused approach towards research that is synonymous with the AACG Group. The AACG cooperation includes but not limited to article MDT (aMDT), international MDT(iMDT) and creation of guidelines/consensus. The international research networks and synergistic collaborations solidifies the significance of the AACG Group on the global stage.
 
 [Back to Top](#top)
+
+<a name="icep"></a>
+<br/>
 
 ### International Collaboration and Exchange Program (ICEP) - Preparing Global Leaders for Healthcare 
 
@@ -127,3 +145,28 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 
 [Back to Top](#top)
 
+
+<a name="forces"></a>
+<br/>
+
+## FORCES project 
+
+Our group participates in the [FORCES Project](https://www.ub.edu/cere/forces/) (Promotion of educational research in secondary education) of University of Barcelona. 
+secondary school).
+
+<a href="https://www.ub.edu/cere/forces/" rel="Forces web page">![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="60%" width="60%"}</a>
+
+
+We have supervised the following students under FORCES innvoation project:
+
+- 2019 edition - Jaume Meinhart Catalan, *"Cancer genetics. Study of the EGFR gene in lung cancer".*
+
+	- Awards: 
+			1. [First prize of UManresa awards for high secondary research work](https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/un-alumne-del-projecte-forces-guanya-el-1r-premi-dels-premis-umanresa-a-treballs-de-recerca-de-batxillerat.)
+			2. [Premio en la 22a edición de los premios a los mejores trabajos de Investigación de Bachillerato, que convoca la UVic-UCC](https://www.ub.edu/idp/web/es/node/2214/)
+
+- 2020 edition - Lucía Alejandre Oro y Guillem Crego Vich, *"Are we destined to suffer from cancer? How it affects us in body and mind"*.
+	- Awards:
+		1.  [Certamen Atenea 2021 de treballs de recerca de 2n de batxillerat](https://serveiseducatius.xtec.cat/vallesoccidental8/general/certamen-atenea-2021-de-treballs-de-recerca-de-2n-de-batxillerat/)
+
+[Back to Top](#top)
