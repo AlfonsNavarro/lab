@@ -106,7 +106,7 @@ XXXIII-Aspectos-Generales-y-de-Investigación-básica-en-cáncer-de-Mama-= Semin
 Our group participates in the [FORCES Project](https://www.ub.edu/cere/forces/) (Promotion of educational research in secondary education) of University of Barcelona. 
 secondary school).
 
-![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="50%" width="50%"}
+<a href="https://www.ub.edu/cere/forces/" rel="Forces web page">![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="60%" width="60%"}</a>
 
 Alumnes agafats per cada any i títol del projecte
 
