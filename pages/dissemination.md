@@ -161,9 +161,9 @@ We have supervised the following students under FORCES innvoation project:
 
 - 2019 edition - Jaume Meinhart Catalan, *"Cancer genetics. Study of the EGFR gene in lung cancer".*
 	- Awards: 
-	
-			1. First prize of UManresa awards for high secondary research work
-			2. [Premio en la 22a edición de los premios a los mejores trabajos de Investigación de Bachillerato, que convoca la UVic-UCC](https://www.ub.edu/idp/web/es/node/2214/)
+
+		1. First prize of UManresa awards for high secondary research work
+		2. [Premio en la 22a edición de los premios a los mejores trabajos de Investigación de Bachillerato, que convoca la UVic-UCC](https://www.ub.edu/idp/web/es/node/2214/)
 
 - 2020 edition - Lucía Alejandre Oro y Guillem Crego Vich, *"Are we destined to suffer from cancer? How it affects us in body and mind"*.
 	- Awards:
