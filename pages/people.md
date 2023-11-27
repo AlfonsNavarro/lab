@@ -117,7 +117,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Yangyi.jpg" alt="Yangyi" style="width:100%">
+      <img src="../assets/img/fotos_people/Yangyi_new_short.jpeg" alt="Yangyi" style="width:100%">
       <div class="container">
         <h3>Yangyi He, MD</h3>
         <p class="title">PhD Student</p>
