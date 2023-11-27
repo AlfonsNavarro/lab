@@ -55,7 +55,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Alfons.jpg" alt="Alfons" style="width:100%">
+      <img src="../assets/img/fotos_people/Alfons_new_short.jpeg" alt="Alfons" style="width:100%">
       <div class="container">
         <h3>Alfons Navarro, PhD</h3>
         <p class="title">Associate Professor - Principal Investigator</p>
