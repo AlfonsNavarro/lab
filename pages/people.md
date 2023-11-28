@@ -65,18 +65,7 @@ html {
     </div>
   </div>
 
- <div class="column">
-    <div class="card">
-      <img src="../assets/img/fotos_people/Mariano.jpg" alt="Mariano" style="width:100%">
-      <div class="container">
-        <h3>Mariano Monzo, MD, PhD</h3>
-        <p class="title">Emeritus Professor</p>
-        <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: <a href="https://orcid.org/0000-0003-2322-4851">0000-0003-2322-4851</a></p>
-        </div>
-    </div>
-  </div>
-  
+ 
   <div class="column">
     <div class="card">
       <img src="../assets/img/fotos_people/Melissa.jpg" alt="Melissa" style="width:100%">
