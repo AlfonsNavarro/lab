@@ -91,7 +91,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Antonio.jpg" alt="Antonio" style="width:100%">
+      <img src="../assets/img/fotos_people/Antonio_Altuna_short.jpeg" alt="Antonio" style="width:100%">
       <div class="container">
         <h3>Antonio Altuna Coy, PhD</h3>
         <p class="title">Posdoctoral researcher</p>
