@@ -5,6 +5,8 @@ title: News
 
 #### News
 
+- 14/03/2024 - Finally we have date for the Thesis defense of José Carlos Benitez. If you are interested in non-coding RNAs in rectal cancer come to the Room 14 of Faculty of Medicine and Health Sciences on 14/03 at 12h.
+
 - 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from [ICEP](https://www.internationalcollaborationexchange.org) program, Philipp Menauer also attended to the congress.
 
 
