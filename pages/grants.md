@@ -7,6 +7,31 @@ title: Grants
 
 <div class="jumbotron">
     <p> 
+Generación de organoides tumorales a partir de células tumorales circulantes aisladas de la vena pulmonar que drena del tumor en pacientes quirúrgicos con cáncer de pulmón.
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Laureano Molins</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR 2023</td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 06/01/2023 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 06/30/2026</td>
+	</tr>
+</table>
+    <a href="https://www.separ.es">
+	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
+      </a>
+</div>
+
+
+<div class="jumbotron">
+    <p> 
 Análisis de ARNs pequeños no codificante en organoides derivados de pacientes con Cáncer de pulmón.  
 </p> 
 
@@ -15,7 +40,7 @@ Análisis de ARNs pequeños no codificante en organoides derivados de pacientes 
 		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Ramon M. Marrades</td>
 	</tr>
 	<tr>
-		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR 2023</td>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR 2022</td>
 		</tr>
 	<tr>
 		<td><b>Start date: </b></td><td></td> <td>&nbsp; 06/01/2022 </td>
