@@ -157,7 +157,7 @@ html {
 <h2 id="Past_Members">Past members</h2>
 <h4>
 <ul>
-    <li><a href="">Mariano Monzó Planella</a> Emeritus Professor, past lab director (2002-2023)</li>
+    <li><a href="">Mariano Monzó Planella</a> Emeritus Professor, past lab director (2002-2020)</li>
 </ul>
 </h4>
 
