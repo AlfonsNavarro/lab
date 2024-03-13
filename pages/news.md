@@ -14,7 +14,7 @@ title: News
 - 11/03/2024 - [XXXV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster about IGFBP3 and its role in alveolar differentiation in human embryonic lungs
 
 <p>
-<img data-u="image" src="../assets/img/melissa_poster_SCB_2024.png" alt="MELISSA ACOSTA IS PRESENTING A POSTER"/>
+<img data-u="image" src="../assets/img/melissa_poster_SCB_2024.png" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="300" height="450"/>
 </p>
 
 
