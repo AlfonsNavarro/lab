@@ -159,6 +159,8 @@ html {
 <ul>
     <li><a href="">Mariano Monzó Planella</a> Emeritus Professor, past lab director (2002-2020)</li>
 <p>
+</p>
+<p>
 <img data-u="image" src="../assets/img/fotos_people/Mariano.jpg" alt="MMonzo picture"/>
 </p>
 </ul>
