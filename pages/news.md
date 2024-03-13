@@ -5,6 +5,13 @@ title: News
 
 #### News
 
+- 12/03/2024 - Today we took the photo of the Thoracic Tumor Unit! What great people! 
+
+<p>
+<img data-u="image" src="../assets/img/thoracic_tumors_funny.png" alt="" width="500" height="300"/>
+</p>
+
+
 - 14/03/2024 - Finally we have date for the Thesis defense of José Carlos Benitez. If you are interested in non-coding RNAs in rectal cancer come to the Room 14 of Faculty of Medicine and Health Sciences on 14/03 at 12h.
 
 - 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from [ICEP](https://www.internationalcollaborationexchange.org) program, Philipp Menauer also attended to the congress.
@@ -36,7 +43,7 @@ Please see our Viewpoint [here](https://www.techscience.com/biocell/v47n5/52280)
 - 03/02/2023 - We are participating in the *IDIBAPS Scientific Photo Contest, edition 2023* with this picture:
 
 <p>
-<img data-u="image" src="../assets/img/arbol_vida.png" alt="arbo vida" width="250" height="150"/>
+<img data-u="image" src="../assets/img/arbol_vida.png" alt="arbol de la vida" width="250" height="150"/>
 </p>
 
 Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0ecIZARWrnAOSehKI4lGiClxSQuOCmxi40G9eKDLu-8ajyHQbZ9_Mrg?pli=1&key=cTJpa1hfbDc5VWJxeUtqYW1ZYXczVnJzLUtCS1R3)
