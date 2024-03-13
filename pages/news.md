@@ -5,10 +5,16 @@ title: News
 
 #### News
 
-- 12/03/2024 - Today we took the photo of the Thoracic Tumor Unit! What great people! 
+- 12/03/2024 - Today we took the photo of the [Thoracic Oncology Unit](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research)! What great people! 
 
 <p>
 <img data-u="image" src="../assets/img/thoracic_tumors_funny.png" alt="" width="500" height="300"/>
+</p>
+
+- 11/03/2024 - [XXXV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster about IGFBP3 and its role in alveolar differentiation in human embryonic lungs
+
+<p>
+<img data-u="image" src="../assets/img/melissa_poster_SCB_2024.png" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="500" height="300"/>
 </p>
 
 
