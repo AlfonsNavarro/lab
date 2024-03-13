@@ -158,6 +158,21 @@ html {
 <h4>
 <ul>
     <li><a href="">Mariano Monzó Planella</a> Emeritus Professor, past lab director (2002-2020)</li>
+<div class="column">
+    <div class="card">
+      <img src="../assets/img/fotos_people/Mariano.jpg" alt="Monzo" style="width:100%">
+      <div class="container">
+        <h3>Mariano Monzó Planella, MD, PhD</h3>
+        <p class="title">Emeritus Professor</p>
+        <p>Human Anatomy and Embriology Unit</p>
+        <p>ORCID: <a href="https://orcid.org/0000-0003-2322-4851">0000-0003-2322-4851</a></p>
+        <p></p>
+        </div>
+    </div>
+  </div>
+  
+
+
 </ul>
 </h4>
 
