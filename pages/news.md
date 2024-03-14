@@ -5,6 +5,19 @@ title: News
 
 #### News
 
+- 14/03/2024 - Thesis defense of José Carlos Benitez. 
+<p>
+</p>
+<img data-u="image" src="../assets/img/tesis_benitez.png" alt="Thesis defense Dr. Benitez, picture with the thesis committee" width="500" height="300"/>
+</p>
+<p>
+	The people in the photo are: (from right to left) thesis committee: Dr. Agustí Barnades (Hospital de Sant Pau), Dr. Albert Biete (Emeritus Professor of Radiotherapy, UB), Dra. Rosa Querol (Hospital Parc Tauli); Dr. Jose Carlos Benitez (PhD student);  and the directors of the thesis: Dr. Marc Campayo and Dr. Alfons Navarro.
+</p>
+<p>
+</p>
+
+
+
 - 12/03/2024 - Today we took the photo of the [Thoracic Oncology Unit](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research)! What great people! 
 
 <p>
@@ -56,10 +69,10 @@ Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0e
 
 - 02/23/2023 - [Thesis defense of Bing Han](https://www.ub.edu/portal/web/dp-cirurgiaespecialitats/detall-novetats/-/detall/defensa-de-tesis-del-dr-bing-han)
 <p>
-<img data-u="image" src="../assets/img/tesis_bing.jpeg" alt="The people in the photo are: (from right to left) Tribunal: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department." width="500" height="300"/>
+<img data-u="image" src="../assets/img/tesis_bing.jpeg" alt="The people in the photo are: (from right to left) thesis committee: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department." width="500" height="300"/>
 </p>
 <p>
-	The people in the photo are: (from right to left) Tribunal: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro. Finally, Dr. Mariano Monzó as emeritus professor of the Department.
+	The people in the photo are: (from right to left) thesis committee: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro. Finally, Dr. Mariano Monzó as emeritus professor of the Department.
 </p>
 <p>
 </p>
