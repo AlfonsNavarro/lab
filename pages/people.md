@@ -169,7 +169,8 @@ html {
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>
-  <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
+  <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. Thesis: <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em> (2024)</li>
+    <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
   <li><a href="https://www.linkedin.com/in/canalsserrat/">Jordi Canals Serrat</a>.Thesis: <em>El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó</em> (2022)</li>
   <li><a>Yan Li</a>. Thesis: <em>Analysis of the K-RAS mutant alleles and lincRNA-p21 expression in tumors and liquid biopsy as prognostic factors in surgical colorectal cancer patients</em> (2020)</li>
   <li><a href="https://www.linkedin.com/in/jorge-moisés-lafuente-2563a315/">Jorge Moisés Lafuente</a>. Thesis: <em>Estudio de los elementos reguladores de la embriogenesis NKX2-1, NANCI y HOTTIP en

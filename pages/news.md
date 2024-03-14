@@ -5,14 +5,11 @@ title: News
 
 #### News
 
-- 14/03/2024 - Thesis defense of José Carlos Benitez. 
+- 14/03/2024 - Thesis defense of José Carlos Benítez Montañez. 
 <p>
-</p>
 <img data-u="image" src="../assets/img/tesis_benitez.png" alt="Thesis defense Dr. Benitez, picture with the thesis committee" width="500" height="300"/>
-</p>
 <p>
 	The people in the photo are: (from right to left) thesis committee: Dr. Agustí Barnades (Hospital de Sant Pau), Dr. Albert Biete (Emeritus Professor of Radiotherapy, UB), Dra. Rosa Querol (Hospital Parc Tauli); Dr. Jose Carlos Benitez (PhD student);  and the directors of the thesis: Dr. Marc Campayo and Dr. Alfons Navarro.
-</p>
 <p>
 </p>
 
