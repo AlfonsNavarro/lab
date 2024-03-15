@@ -15,7 +15,7 @@ title: News
 
 
 
-- 12/03/2024 - Today we took the photo of the [Thoracic Oncology Unit](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research)! What great people! 
+- 12/03/2024 - Today we took the photo of the [Thoracic Oncology Unit.](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research) What great people! 
 
 <p>
 <img data-u="image" src="../assets/img/thoracic_tumors_funny.png" alt="" width="500" height="300"/>
