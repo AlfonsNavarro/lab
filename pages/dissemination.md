@@ -15,6 +15,8 @@ title: Dissemination
 	- [The Society for Translational Medicine](#translational)
 	- [International Collaboration and Exchange Program](#icep)
 - [FORCES project - Promotion of educational research in secondary education](#forces)
+- [Internationalization](#internationalization)
+	- [Special issues](#special)
 
 <a name="chair"></a>
 <br/>
@@ -169,5 +171,35 @@ We have supervised the following students under FORCES innvoation project:
 	- Awards:
 
 		1.  [Certamen Atenea 2021 de treballs de recerca de 2n de batxillerat](https://serveiseducatius.xtec.cat/vallesoccidental8/general/certamen-atenea-2021-de-treballs-de-recerca-de-2n-de-batxillerat/)
+
+[Back to Top](#top)
+
+<a name="internationalization"></a>
+<br/>
+
+# Internazionalization
+
+<a name="special"></a>
+<br/>
+
+## Participation as Editor in Special Issues for International Journals
+
+### Open Special issues
+
+- [Editorial Board Members’ Collection Series: The Functions of Extracellular Vesicles in Cancer](https://www.mdpi.com/journal/cancers/special_issues/77294E6FA4). Cancers. Editors: Fiona Lyng, Aldo M. Roccaro, Alfons Navarro. 
+
+Deadline for manuscript submissions: 15 April 2024.
+
+### Closed Special issues
+
+- [The Role of ncRNAs in Solid Tumors Prognosis: From Laboratory To Clinical Utility](https://www.frontiersin.org/research-topics/10686/the-role-of-ncrnas-in-solid-tumors-prognosis-from-laboratory-to-clinical-utility). Frontiers in Oncology, Frontiers in Genetics.
+Topic Editors: Jian-Guo Zhou, Zhaohui Huang, Ondrej Slaby, and Alfons Navarro.
+
+- [Role of miRNAs in Cancer—Analysis of Their Targetome](https://www.mdpi.com/journal/cancers/special_issues/miRNAs_Cancer). Cancers. Editor: Alfons Navarro.
+
+- [Clinic and Therapeutic Potential of Non-coding RNAs in Cance](https://tcr.amegroups.org/post/view/clinic-and-therapeutic-potential-of-non-coding-rnas-in-cancer). Tranalational Cancer Research. Editors:Alfons Navarro, Joan Josep Castellano, Marina Díaz-Beyá.
+
+- Role of Non-coding RNAs in Colorectal Cancer (https://www.mdpi.com/journal/gastrointestdisord/special_issues/ncrna_cc). Gastrointestinal Disorders. Editros: Alfons Navarro, Tania Díaz sánchez.
+
 
 [Back to Top](#top)
