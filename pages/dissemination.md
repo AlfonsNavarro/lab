@@ -26,14 +26,14 @@ title: Dissemination
 To create synergies to promote, share and disseminate the knowledge on the development, diagnosis, and treatment for lung cancer, our group have established a collaboration with the pharmaceutical company AstraZeneca to create the **UB-Hospital Clinic Chair on Lung Cancer AstraZeneca**.
 
 
-| ![Logo UB]({{site.base.url}}/lab/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/lab/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
+| ![Logo UB]({{site.base.url}}/assets/img/logos/Logotip_UB.png){:height="50%" width="50%"} | ![Logo Hospital Clinic]({{site.base.url}}/assets/img/logos/Logotip_clinic.png){:height="50%" width="50%"} | ![Logo AstraZeneca]({{site.base.url}}/assets/img/logos/Logotip_AstraZeneca.png){:height="50%" width="50%"} |
 
 <br/>
 **Chair Members:** 
 Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laureano Molins, Dr. Ramón M. Marrades, Dr. José Ramírez; and from Astrazeneca Company: Dr. Miquel Romans and Dr.Jordi Castignani.
 
 
-![Foto Catedra]({{site.base.url}}/lab/assets/img/Catedra_pulmo.png){:height="50%" width="50%"}
+![Foto Catedra]({{site.base.url}}/assets/img/Catedra_pulmo.png){:height="50%" width="50%"}
 
 <br/>
 **Testimonials:**
@@ -70,7 +70,7 @@ Dr. Mariano Monzó (Director), Dr. Noemí Reguart, Dr. Alfons Navarro, Dr. Laure
 
 The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbarcelona.org/en/idibaps/areas-and-programs/respiratory-cardiovascular-and-renal-pathobiology-and-bioengineering/inflammation-and-repair-in-respiratory-diseases) is involved in the study of lung development and ageing as key pathogenic determinants of adulthood respiratory diseases and Early lung cancer diagnosis and prognosis. 
 
-![Logo IDIBAPS]({{site.base.url}}/lab/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
+![Logo IDIBAPS]({{site.base.url}}/assets/img/logos/Logotip_IDIBAPS.jpg){:height="15%" width="15%"}
 
 
 [Back to Top](#top)
@@ -83,7 +83,7 @@ The [Inflamation and Repair in Respiratory diseases group](https://www.clinicbar
 
 [The Thoracic Oncology Unit](https://www.clinicbarcelona.org/unidad/tumores-toracicos) is made up of a team of professionals committed to the care of patients with lung cancer and other thoracic tumors. The objective is to achieve a clinical practice of excellence and guarantee the best quality care for patients.
 
-![Logo Clinic]({{site.base.url}}/lab/assets/img/logos/Logotip_clinic.png){:height="30%" width="30%"}
+![Logo Clinic]({{site.base.url}}/assets/img/logos/Logotip_clinic.png){:height="30%" width="30%"}
 
 
 The Unit includes six transversal axes focused on diagnosis, treatment, clinical research, translational research and teaching in lung cancer and other thoracic tumors.
@@ -99,7 +99,7 @@ The thirty components of the Unit are structured in fifteen core cores, defined 
 
 The [The Society for Translational Medicine](https://www.thestm.org) committee is consisted of the AME Academic Cooperative Group, initiated by a group of world-leading medical specialists and AME Publishing Company (https://www.amegroups.com/who-we-are) with the goal of coordinating the international academic cooperation across different countries.
 
-![Logo TSTM]({{site.base.url}}/lab/assets/img/logos/Logotip_TSTM.jpeg){:height="20%" width="20%"}
+![Logo TSTM]({{site.base.url}}/assets/img/logos/Logotip_TSTM.jpeg){:height="20%" width="20%"}
 
 
 After years of development, the AME Academic Cooperative Group (AACG) has grown into a number of subgroups ([AME collaborative groups](https://www.thestm.org/about/internationAdvisoryCommitee)) in various academic and clinical fields and **our group participates in the following groups**: 
@@ -118,7 +118,7 @@ These subject-based divisions encapsulate a holistic, evidence-driven, and patie
 
 Our group collaborate since 2021 with the [International Collaboration and Exchange Program (ICEP)](https://www.internationalcollaborationexchange.org) directed by Dr. Anette Wu from Columbia University. The program in the UB is coordinated by Dra. Neus Martínez Abadias from Faculty of Biology and Dr. Alfons Navarro is the supervisor of the program in the Grade of Medicine - Campus Clinic. 
 
-![Logo ICEP]({{site.base.url}}/lab/assets/img/logos/Logotip_ICEP.jpeg){:height="25%" width="25%"}
+![Logo ICEP]({{site.base.url}}/assets/img/logos/Logotip_ICEP.jpeg){:height="25%" width="25%"}
 
 
 This is mainly an online program with the goal to help improve our global healthcare world by preparing future medical, dental and healthcare leaders via Internationalization of Medical and Health Profession Education utilizing early international networking, collaboration and exchange. 
@@ -156,7 +156,7 @@ Additionally, selected students can perform In person Travel Exchange. Our lab h
 Our group participates in the [FORCES Project](https://www.ub.edu/cere/forces/) (Promotion of educational research in secondary education) of University of Barcelona. 
 secondary school).
 
-<a href="https://www.ub.edu/cere/forces/" rel="Forces web page">![Logo Forces]({{site.base.url}}/lab/assets/img/Forces.jpeg){:height="60%" width="60%"}</a>
+<a href="https://www.ub.edu/cere/forces/" rel="Forces web page">![Logo Forces]({{site.base.url}}/assets/img/Forces.jpeg){:height="60%" width="60%"}</a>
 
 
 We have supervised the following students under FORCES innvoation project:
