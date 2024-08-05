@@ -152,6 +152,7 @@ html {
 
 
 <h2 id="Students">Undergraduate and Master students</h2>
+<h4>
 <ul>
   <li>
     <a href="https://de.linkedin.com/in/eylül-korkmaz-508606198?trk=people-guest_people_search-card">Eylül Korkmaz</a> 
@@ -184,8 +185,10 @@ html {
     Master of Biomedicine, UB, 2019-20
   </li> 
 </ul>
+</h4>
 
 <h2 id="Past_Members">Past members</h2>
+<h4>
 <ul>
   <li>
     <a href="">Mariano Monzó Planella</a> 
@@ -194,6 +197,7 @@ html {
     <img data-u="image" src="../assets/img/fotos_people/Mariano.jpg" alt="MMonzo picture"/>
   </li>
 </ul>
+</h4>
 
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
