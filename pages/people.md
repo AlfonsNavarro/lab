@@ -154,12 +154,10 @@ html {
 <h2 id="Students">Undergraduate and Master students</h2>
 <h4>
 <ul>
+  <p>
   <li><a href="">Eylül Korkmaz</a> Erasmus Student, Master of Molecular Biotechnology, Faculty of Pharmacy, UB, 2023-2024</li>
 <p>
 <img data-u="image" src="../assets/img/fotos_people/Eylul_Korkmaz.JPEG" alt="Eylul_Korkmaz picture" style="width:148px;height:184px;"/>
-</p>
-  <li><a href="">Philipp Menauer</a> ICE program, visiting scholar from LMU, Munich Germany. 2023</li>
-  <p>
 </p>
 <p>
     <li><a href="">Tianmiao Yang</a> Master of Translational Medicine, UB, 2023-2024</li>
@@ -172,7 +170,7 @@ html {
   <p>
 </p>
 <p>
-<img data-u="image" src="../assets/img/fotos_people/PhilipMenauer.JPEG" alt="Philipp picture"/>
+<img data-u="image" src="../assets/img/fotos_people/PhilipMenauer.JPEG" alt="Philipp picture" style="width:148px;height:184px;"/>
 </p>
   <li><a href="">Lea Vilanova Mañà</a> Master of Bioinformatics and Biostatistics, UOC, Internship student. 2021</li>
   <li><a href="">Jara Martín</a> Master of Biomedicine, UB, 2019-20</li>
