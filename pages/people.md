@@ -75,6 +75,7 @@ html {
         <p class="title">FI-SDUR Fellow</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID:<a href="https://orcid.org/0000-0001-6679-8869">0000-0001-6679-8869</a></p>
+        <p>Google Scholar: <a href="">-</a></p>
         </div>
     </div>
   </div>
@@ -87,6 +88,7 @@ html {
         <p class="title">Posdoctoral researcher</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID:<a href="https://orcid.org/0000-0001-6544-3759">0000-0001-6544-3759</a></p>
+        <p>Google Scholar: <a href="">-</a></p>
         <p></p>
         </div>
     </div>
@@ -100,6 +102,7 @@ html {
         <p class="title">Lecturer</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/0000-0001-9576-8351">0000-0001-9576-8351</a></p>
+        <p>Google Scholar: <a href="">-</a></p>
         <p></p>
         </div>
     </div>
@@ -113,6 +116,7 @@ html {
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/0000-0003-0792-193X">0000-0003-0792-193X</a></p>
+        <p>Google Scholar: <a href="">-</a></p>
         <p></p>
         </div>
     </div>
@@ -125,6 +129,7 @@ html {
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/"></a>.</p>
+        <p>Google Scholar: <a href="">-</a></p>
         <p></p>
         </div>
     </div>
