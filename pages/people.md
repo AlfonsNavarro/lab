@@ -155,29 +155,29 @@ html {
 <h4>
 <ul>
   <li>
-    <a href="https://de.linkedin.com/in/eylül-korkmaz-508606198?trk=people-guest_people_search-card">Eylül Korkmaz</a> 
+    <a href="https://de.linkedin.com/in/eylül-korkmaz-508606198?trk=people-guest_people_search-card">Eylül Korkmaz</a>.
     Erasmus Student, Master of Molecular Biotechnology, Faculty of Pharmacy, UB, 2023-2024
     <br><br>
     <img data-u="image" src="../assets/img/fotos_people/Eylul_Korkmaz.JPEG" alt="Eylul_Korkmaz picture" style="width:148px;height:184px;"/>
   </li>
   <li>
-    <a href="">Tianmiao Yang</a>
+    <a href="">Tianmiao Yang</a>.
     Master of Translational Medicine, UB, 2023-2024
-    <br>
+    <br><br>
     <img data-u="image" src="../assets/img/fotos_people/Tianmiao_2.JPG" alt="Tianmiao picture"/>
   </li>
   <li>
-    <a href="https://de.linkedin.com/in/philipp-menauer-3bb55b299?trk=people-guest_people_search-card">Philipp Menauer</a>
+    <a href="https://de.linkedin.com/in/philipp-menauer-3bb55b299?trk=people-guest_people_search-card">Philipp Menauer</a>.
     ICE program, visiting scholar from LMU, Munich Germany. 2023
     <br><br> 
     <img data-u="image" src="../assets/img/fotos_people/PhilipMenauer.JPEG" alt="Philipp picture" style="width:148px;height:184px;"/>
   </li>
   <li>
-    <a href="https://fr.linkedin.com/in/lea-vilanova-mana?trk=people-guest_people_search-card">Lea Vilanova Mañà</a>
+    <a href="https://fr.linkedin.com/in/lea-vilanova-mana?trk=people-guest_people_search-card">Lea Vilanova Mañà</a>.
     Master of Bioinformatics and Biostatistics, UOC, Internship student. 2021
   </li>
   <li>
-    <a href="https://es.linkedin.com/in/jara-martín-serrano-0a099a159?trk=people-guest_people_search-card">Jara Martín</a>
+    <a href="https://es.linkedin.com/in/jara-martín-serrano-0a099a159?trk=people-guest_people_search-card">Jara Martín</a>.
     Master of Biomedicine, UB, 2019-20
   </li> 
 </ul>
@@ -199,7 +199,7 @@ html {
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>
-  <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. Thesis: <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em> (2024)</li>
+  <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <a href="http://hdl.handle.net/10803/691573">Thesis:</a><em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em> (2024)</li>
     <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
   <li><a href="https://www.linkedin.com/in/canalsserrat/">Jordi Canals Serrat</a>.Thesis: <em>El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó</em> (2022)</li>
   <li><a>Yan Li</a>. Thesis: <em>Analysis of the K-RAS mutant alleles and lincRNA-p21 expression in tumors and liquid biopsy as prognostic factors in surgical colorectal cancer patients</em> (2020)</li>
