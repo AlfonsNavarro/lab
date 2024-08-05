@@ -10,7 +10,7 @@ Acosta-Plasencia, Phillip Menauer, Ramón M. Marrades, Alfons Navarro.(2023). **
 
 You can buy a hard copy of the book [here](https://link.springer.com/referencework/10.1007/978-3-030-80962-1)
 
-![book cover]({{site.base.url}}/assets/img/Book_cover_immunology.png){:height="30%" width="30%"}
+![book cover]({{site.base.url}}/assets/img/Book_cover_immunology.png){:height="15%" width="15%"}
 
 
 ### Interdisciplinary Cancer Research
