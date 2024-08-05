@@ -3,17 +3,22 @@ layout: template1
 title: Books
 ---
 
-# Book chapters
+### Handbook of Cancer Immunology
+
+Acosta-Plasencia, Phillip Menauer, Ramón M. Marrades, Alfons Navarro.(2023). **Potential of patient derived organoids and other 3D culture models to assess immunotherapy response in cancer.** In: Handbook of Cancer and Immunology. Springer.DOI:[10.1007/978-3-030-80962-1_387-1](https://link.springer.com/referenceworkentry/10.1007/978-3-030-80962-1_387-1).
+
+You can buy a hard copy of the book [here](https://link.springer.com/referencework/10.1007/978-3-030-80962-1)
+
+![book cover]({{site.base.url}}/assets/img/Book_cover_immunology.jpg){:height="30%" width="30%"}
+
 
 ### Interdisciplinary Cancer Research
 
 Melissa Acosta-Plasencia, Joan J. Castellano, Alison M. Taylor, Yangyi He, Daniel Martínez, Mariano Monzo, Ramón M. Marrades & Alfons Navarro.(2022). **Patient-Derived Organoids as a Stem Cell Model to Study Lung Cancer.** In: Interdisciplinary Cancer Research. Springer, Cham. DOI:[10.1007/16833_2022_78](https://doi.org/10.1007/16833_2022_78)
 
+You can buy a hard copy of the book [here](https://www.springer.com/series/16833)
 
-### Handbook of Cancer Immunology
-
-Acosta-Plasencia, Phillip Menauer, Ramón M. Marrades, Alfons Navarro.(2023). **Potential of patient derived organoids and other 3D culture models to assess immunotherapy response in cancer.** In: HANDBOOK OF CANCER AND IMMUNOLOGY. Springer. *In Press*.
-
+![book cover]({{site.base.url}}/assets/img/Book_cover_interdisciplinary.jpg){:height="30%" width="30%"}
 
 # Edited Books 
 
