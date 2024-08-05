@@ -2,6 +2,7 @@
 layout: template1
 title: Books
 ---
+# Book Chapters
 
 ### Handbook of Cancer Immunology
 
@@ -9,7 +10,7 @@ Acosta-Plasencia, Phillip Menauer, Ramón M. Marrades, Alfons Navarro.(2023). **
 
 You can buy a hard copy of the book [here](https://link.springer.com/referencework/10.1007/978-3-030-80962-1)
 
-![book cover]({{site.base.url}}/assets/img/Book_cover_immunology.png){:height="20%" width="20%"}
+![book cover]({{site.base.url}}/assets/img/Book_cover_immunology.png){:height="30%" width="30%"}
 
 
 ### Interdisciplinary Cancer Research
@@ -18,7 +19,7 @@ Melissa Acosta-Plasencia, Joan J. Castellano, Alison M. Taylor, Yangyi He, Danie
 
 You can buy a hard copy of the book [here](https://www.springer.com/series/16833)
 
-![book cover]({{site.base.url}}/assets/img/Book_cover_interdisciplinary.png){:height="20%" width="20%"}
+![book cover]({{site.base.url}}/assets/img/Book_cover_interdisciplinary.png){:height="15%" width="15%"}
 
 # Edited Books 
 
