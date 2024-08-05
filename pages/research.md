@@ -15,6 +15,10 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
+-[Analysis of tumor-draining vein secretome: A direct access to tumor-derived extracellular vesicles in surgical lung cancer patients.](ttps://doi.org/10.32604/biocell.2023.027718)
+Y He, D Sanchez-Lorente, M Acosta-Plasencia, ..., A Navarro.
+Biocell. 2023 April 10;47(5):951-957. 
+
 -[Characterization of the MicroRNA Cargo of Extracellular Vesicles Isolated from a Pulmonary Tumor-Draining Vein Identifies miR-203a-3p as a Relapse Biomarker for Resected Non-Small Cell Lung Cancer.](https://www.mdpi.com/1422-0067/23/13/7138)
 B Han, L Molins, Y He, ..., A Navarro.
 Int J Mol Sci. 2022 Jun 27;23(13):7138.
