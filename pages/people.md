@@ -149,6 +149,14 @@ html {
 <h4>
 <ul>
   <li><a href="">Eylül Korkmaz</a> Erasmus Student, Master of Molecular Biotechnology, Faculty of Pharmacy, UB, 2023-2024</li>
+</p>
+<p>
+<img data-u="image" src="../assets/img/fotos_people/Eylul_Korkmaz.JPEG" alt="Eylul_Korkmaz picture"/>
+</p>
+  <li><a href="">Philipp Menauer</a> ICE program, visiting scholar from LMU, Munich Germany. 2023</li>
+  <p>
+</p>
+<p>
     <li><a href="">Tianmiao Yang</a> Master of Translational Medicine, UB, 2023-2024</li>
     <p>
 </p>
