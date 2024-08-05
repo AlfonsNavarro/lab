@@ -61,6 +61,7 @@ html {
         <p class="title">Associate Professor - Principal Investigator</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/0000-0001-6071-0926">0000-0001-6071-0926</a></p>
+        <p>Google Scholar: <a href="https://scholar.google.es/citations?user=xF42u88AAAAJ&hl=es">xF42u88AAAAJ</a></p>
         </div>
     </div>
   </div>
