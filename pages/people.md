@@ -118,7 +118,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Risha.jpeg" alt="Risha" style="width:100%">
+      <img src="../assets/img/fotos_people/Risha.JPEG" alt="Risha" style="width:100%">
       <div class="container">
         <h3>Risha Na, MD</h3>
         <p class="title">PhD Student</p>
@@ -153,7 +153,7 @@ html {
     <p>
 </p>
 <p>
-<img data-u="image" src="../assets/img/fotos_people/Tianmiao.jpg" alt="Tianmiao picture"/>
+<img data-u="image" src="../assets/img/fotos_people/Tianmiao.JPG" alt="Tianmiao picture"/>
 </p>
   <li><a href="">Philipp Menauer</a> ICE program, visiting scholar from LMU, Munich Germany. 2023</li>
   <li><a href="">Lea Vilanova Mañà</a> Master of Bioinformatics and Biostatistics, UOC, Internship student. 2021</li>
