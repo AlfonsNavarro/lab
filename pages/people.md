@@ -118,12 +118,12 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Sandra.jpg" alt="Sandra" style="width:100%">
+      <img src="../assets/img/fotos_people/Risha.jpg" alt="Risha" style="width:100%">
       <div class="container">
-        <h3>Sandra Castagno, MD</h3>
+        <h3>Risha Na, MD</h3>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: <a href="https://orcid.org/0000-0001-9044-4665">0000-0001-9044-4665</a></p>
+        <p>ORCID: <a href="https://orcid.org/"></a>.</p>
         <p></p>
         </div>
     </div>
