@@ -156,6 +156,9 @@ html {
 <ul>
   <p>
   <li><a href="">Eylül Korkmaz</a> Erasmus Student, Master of Molecular Biotechnology, Faculty of Pharmacy, UB, 2023-2024</li>
+</p>
+<p>
+</p>
 <p>
 <img data-u="image" src="../assets/img/fotos_people/Eylul_Korkmaz.JPEG" alt="Eylul_Korkmaz picture" style="width:148px;height:184px;"/>
 </p>
