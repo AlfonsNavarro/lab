@@ -153,7 +153,6 @@ html {
 
 <h2 id="Students">Undergraduate and Master students</h2>
 <h4>
-<h2 id="Students">Undergraduate and Master students</h2>
 <ul>
   <li>
     <a href="https://de.linkedin.com/in/eylül-korkmaz-508606198?trk=people-guest_people_search-card">Eylül Korkmaz</a> 
@@ -161,12 +160,11 @@ html {
     <br><br>
     <img data-u="image" src="../assets/img/fotos_people/Eylul_Korkmaz.JPEG" alt="Eylul_Korkmaz picture" style="width:148px;height:184px;"/>
   </li>
-  
   <li>
     <a href="">Tianmiao Yang</a>
     Master of Translational Medicine, UB, 2023-2024
     <br>
-    <img data-u="image" src="../assets/img/fotos_people/Tianmiao.JPG" alt="Tianmiao picture"/>
+    <img data-u="image" src="../assets/img/fotos_people/Tianmiao_2.JPG" alt="Tianmiao picture"/>
   </li>
   <li>
     <a href="https://de.linkedin.com/in/philipp-menauer-3bb55b299?trk=people-guest_people_search-card">Philipp Menauer</a>
@@ -174,15 +172,12 @@ html {
     <br><br> 
     <img data-u="image" src="../assets/img/fotos_people/PhilipMenauer.JPEG" alt="Philipp picture" style="width:148px;height:184px;"/>
   </li>
-  
   <li>
     <a href="https://fr.linkedin.com/in/lea-vilanova-mana?trk=people-guest_people_search-card">Lea Vilanova Mañà</a>
     Master of Bioinformatics and Biostatistics, UOC, Internship student. 2021
   </li>
-  
   <li>
     <a href="https://es.linkedin.com/in/jara-martín-serrano-0a099a159?trk=people-guest_people_search-card">Jara Martín</a>
-    <br><br> 
     Master of Biomedicine, UB, 2019-20
   </li> 
 </ul>
