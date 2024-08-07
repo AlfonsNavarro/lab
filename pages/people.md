@@ -206,7 +206,7 @@ html {
 <ul>
   <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em>(2024). 
     <br><br>
-    <a href="http://hdl.handle.net/10803/691573">You can access the thesis here.</a>
+    <h5><a href="http://hdl.handle.net/10803/691573">You can access the thesis here.</a></h5>
     <br><br>
   </li>
     <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023).
@@ -218,13 +218,18 @@ html {
     <br><br>
   </li>
   <li><a>Yan Li</a>. Thesis: <em>Analysis of the K-RAS mutant alleles and lincRNA-p21 expression in tumors and liquid biopsy as prognostic factors in surgical colorectal cancer patients</em> (2020).
-    <br><br>
+<br><br>
+    <a href="https://dialnet.unirioja.es/servlet/tesis?codigo=301781">You can access the summary of the thesis here.</a>
+<br><br>
   </li>
   <li><a href="https://www.linkedin.com/in/jorge-moisés-lafuente-2563a315/">Jorge Moisés Lafuente</a>. Thesis: <em>Estudio de los elementos reguladores de la embriogenesis NKX2-1, NANCI y HOTTIP en estadios precoces de cáncer de pulmón de célula no pequeña</em> (2020). 
+    <br><br>
+    <a href="https://dialnet.unirioja.es/servlet/tesis?codigo=299669">You can access the summary of the thesis here.</a>
 <br><br>
 </li>
-  <li><a href="https://www.linkedin.com/in/joan-josep-castellano-pérez-92760588/">Joan Josep Castellano Pérez</a>. Thesis: <em>Impacto pronóstico del lincRNA-p21 en tejido tumoral y exosomas de cáncer de pulmón
-de célula no pequeña</em> (2019).
+  <li><a href="https://www.linkedin.com/in/joan-josep-castellano-pérez-92760588/">Joan Josep Castellano Pérez</a>. Thesis: <em>Impacto pronóstico del lincRNA-p21 en tejido tumoral y exosomas de cáncer de pulmón de célula no pequeña</em> (2019).
+ <br><br>
+    <a href="https://dialnet.unirioja.es/servlet/tesis?codigo=299062">You can access the summary of the thesis here.</a>
 <br><br>
 </li>
   <li><a href="https://www.linkedin.com/in/sandra-santasusagna-8b447083/">Sandra Santasusagna Canal</a>.  <em>Exosomas y microRNAs en biopsia líquida como biomarcadors pronóstico del cáncer de colon</em> (2018). 
