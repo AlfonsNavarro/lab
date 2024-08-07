@@ -205,7 +205,7 @@ html {
 <h4>
 <ul>
   <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em>(2024). 
-    <br><br>
+    <br><br style="color:rgba(255,0,0,0.5);">
     You can access the thesis <a href="http://hdl.handle.net/10803/691573">here.</a>
     <br><br>
   </li>
