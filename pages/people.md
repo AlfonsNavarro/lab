@@ -206,7 +206,7 @@ html {
 <ul>
   <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <a href="http://hdl.handle.net/10803/691573">Thesis: </a><em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em>(2024)</li>
     <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023)</li>
-  <li><a href="https://www.linkedin.com/in/canalsserrat/">Jordi Canals Serrat</a>.Thesis: <em>El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó</em> (2022)</li>
+  <li><a href="https://www.linkedin.com/in/canalsserrat/">Jordi Canals Serrat</a>.<a href="https://www.tdx.cat/handle/10803/675943">Thesis: </a><em>El mesénquima embrionari pulmonar i la seva relació en el control del cáncer de pulmó</em> (2022)</li>
   <li><a>Yan Li</a>. Thesis: <em>Analysis of the K-RAS mutant alleles and lincRNA-p21 expression in tumors and liquid biopsy as prognostic factors in surgical colorectal cancer patients</em> (2020)</li>
   <li><a href="https://www.linkedin.com/in/jorge-moisés-lafuente-2563a315/">Jorge Moisés Lafuente</a>. Thesis: <em>Estudio de los elementos reguladores de la embriogenesis NKX2-1, NANCI y HOTTIP en
 estadios precoces de cáncer de pulmón de célula no pequeña</em> (2020)</li>
@@ -219,7 +219,7 @@ colon</em> (2018)</li>
   <li><a href="https://www.linkedin.com/search/results/all/?keywords=rut%20tejero&origin=GLOBAL_SEARCH_HEADER&sid=ewE">Rut Tejero Villalba</a>. Thesis: <em>Utilidad de la familia miR-200 como marcador pronóstico en dos tumores de origen endodérmico: Cáncer de Pulmón y Cáncer Colorrectal</em> (2014)</li>
   <li><a href="https://www.clinicbarcelona.org/profesionales/marina-diaz">Marina Díaz Beyá</a>. Thesis: <em>Estudio del patrón de expresión de microRNAs en subtipos de leucemia aguda mieloblástica (LAM) poco frecuentes y análisis del valor pronóstico de microRNAs en LAM de riesgo citogenético intermedio</em> (2014)</li>
   <li><a href="https://www.linkedin.com/in/marc-campayo-a303b65b/">Marc Campayo Guillaumes</a>. Thesis: <em>Anàlisi de polimorfismes d’una sola base (SNPs) com a factors predictius de recaiguda en pacients amb càncer de pulmó de cèl·lula no petita quirúrgic</em> (2011)</li>
-  <li><a href="https://www.linkedin.com/in/tania-diaz-sanchez-62b684a3/">Tania Díaz Sánchez</a>. <em>JAK2 en el linfoma de Hodgkin: Impacto pronóstico de la regulación mediada por miR-135a y análisis in vitro de Lestaurt</em> (2011)</li>
+  <li><a href="https://www.linkedin.com/in/tania-diaz-sanchez-62b684a3/">Tania Díaz Sánchez</a>. <em>JAK2 en el linfoma de Hodgkin: Impacto pronóstico de la regulación mediada por miR-135a y análisis in vitro de Lestaurt</em> (2011). <a href="http://hdl.handle.net/10803/32005">Thesis</a></li>
   <li><a href="https://www.linkedin.com/in/elena-gallardo-65596157/">Elena Gallardo Martín</a>. Thesis: <em>Importancia clínica de los micrornas de la vía de p53 en cáncer de pulmón no microcítico: miR-34a y miR-16</em> (2011)</li>
   <li><a href="https://www.linkedin.com/in/aina-pons-phd-6b967433/">Aina Pons Rosell</a>. Thesis: <em>Análisis de los perfiles de expresión de microRNAs en enfermedades hematológicas: Síndromes mielodisplásicos y Linfoma de Hodgkin</em> (2010)</li>
 </ul>
