@@ -206,7 +206,7 @@ html {
 <ul>
   <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em>(2024). 
     <br><br>
-    You can access the thesis <a href="http://hdl.handle.net/10803/691573">here.</a><
+    You can access the thesis <a href="http://hdl.handle.net/10803/691573">here.</a>
     <br><br>
   </li>
     <li><a href="https://www.linkedin.com/in/bing-han-107121188/?originalSubdomain=es">Bing Han</a>. Thesis: <em>Characterization of the non-coding RNA cargo in extracellular vesicles from surgical non-small cell lung cancer patients identifies lncRNA HOTTIP and miR-203a-3p as relapse biomarkers</em> (2023).
