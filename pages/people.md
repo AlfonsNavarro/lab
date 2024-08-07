@@ -226,7 +226,7 @@ de célula no pequeña</em> (2019).
 colon</em> (2018).
 <br><br>
 </li>
-  <li><a href="https://www.linkedin.com/in/marcruizmartinez/">Marc Ruíz Martínez</a>. <a href="http://hdl.handle.net/10803/401865">Thesis:</a> <em>Estudio del gen YKT6 y miRNAs asociados en la liberación de exosomas en pacientes quirúrgicos de cáncer de pulmón</em> (2016).
+  <li><a href="https://www.linkedin.com/in/marcruizmartinez/">Marc Ruíz Martínez</a>. <em>Estudio del gen YKT6 y miRNAs asociados en la liberación de exosomas en pacientes quirúrgicos de cáncer de pulmón</em> (2016). <a href="http://hdl.handle.net/10803/401865">You can access the thesis here.</a> 
 <br><br>
   </li>
   <li><a href="https://www.linkedin.com/in/anna-cordeiro-santanach-phd-9b540580/">Anna Cordeiro Santanach</a>. <em>ARNs no codificantes pequeños en Linfoma de Hodgkin: regulación epigenética de microRNAs e importancia de la vía PIWI/Pirna</em> (2016). <a href="http://hdl.handle.net/10803/401705">You can access the thesis here.</a>
@@ -247,7 +247,7 @@ colon</em> (2018).
   <li><a href="https://www.linkedin.com/in/elena-gallardo-65596157/">Elena Gallardo Martín</a>. <em>Importancia clínica de los micrornas de la vía de p53 en cáncer de pulmón no microcítico: miR-34a y miR-16</em> (2011). <a href="http://hdl.handle.net/10803/51569">You can access the thesis here</a>
 <br><br>
   </li>
-  <li><a href="https://www.linkedin.com/in/aina-pons-phd-6b967433/">Aina Pons Rosell</a>. <em>Análisis de los perfiles de expresión de microRNAs en enfermedades hematológicas: Síndromes mielodisplásicos y Linfoma de Hodgkin</em> (2010). <br><a href="http://hdl.handle.net/10803/2332">You can access the thesis here.</a>
+  <li><a href="https://www.linkedin.com/in/aina-pons-phd-6b967433/">Aina Pons Rosell</a>. <em>Análisis de los perfiles de expresión de microRNAs en enfermedades hematológicas: Síndromes mielodisplásicos y Linfoma de Hodgkin</em> (2010). <br><br><a href="http://hdl.handle.net/10803/2332">You can access the thesis here.</a>
 <br><br>
   </li>
 </ul>
