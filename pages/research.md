@@ -15,7 +15,7 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
--[Analysis of tumor-draining vein secretome: A direct access to tumor-derived extracellular vesicles in surgical lung cancer patients.](ttps://doi.org/10.32604/biocell.2023.027718)
+-[Analysis of tumor-draining vein secretome: A direct access to tumor-derived extracellular vesicles in surgical lung cancer patients.](https://doi.org/10.32604/biocell.2023.027718)
 Y He, D Sanchez-Lorente, M Acosta-Plasencia, ..., A Navarro.
 Biocell. 2023 April 10;47(5):951-957. 
 
