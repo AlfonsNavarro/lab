@@ -15,6 +15,11 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
+-[Discovering genes and microRNAs involved in human lung development unveils IGFBP3/miR-34a dynamics and their relevance for alveolar differentiation.](https://stemcellres.biomedcentral.com/articles/10.1186/s13287-024-03883-1)
+M Acosta-Plasencia, JJ Castellano, T Diaz, Y He, RM Marrades, A Navarro.
+Stem Cell Research & Therapy. 2024 August 26;15(1):263. 
+
+
 -[Analysis of tumor-draining vein secretome: A direct access to tumor-derived extracellular vesicles in surgical lung cancer patients.](https://doi.org/10.32604/biocell.2023.027718)
 Y He, D Sanchez-Lorente, M Acosta-Plasencia, ..., A Navarro.
 Biocell. 2023 April 10;47(5):951-957. 
