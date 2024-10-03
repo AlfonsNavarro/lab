@@ -8,11 +8,11 @@ title: News
 
 - 08/07/2024 - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
 <p>
-<img data-u="image" src="../assets/img/interviewnterview.png" alt="Interview with Dr. Alfons Navarro" width="500" height="600"/>
+<img data-u="image" src="../assets/img/interview.png" alt="Interview with Dr. Alfons Navarro" width="500" height="600"/>
 </p>
 
 See the complete interview [here](https://tcr.amegroups.org/post/view/interview-with-dr-alfons-navarro-non-coding-rnas-as-cancer-biomarkers)
-</p>
+
 <p>
 </p>
 
