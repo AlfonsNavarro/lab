@@ -98,7 +98,7 @@ Pharmacogenomics vol. 10, num. 3.
 
 #### Interviews
 
--[Interview with Dr. Alfons Navarro: non-coding RNAs as cancer biomarkers.] (https://tcr.amegroups.org/post/view/interview-with-dr-alfons-navarro-non-coding-rnas-as-cancer-biomarkers)
+-[Interview with Dr. Alfons Navarro: non-coding RNAs as cancer biomarkers.](https://tcr.amegroups.org/post/view/interview-with-dr-alfons-navarro-non-coding-rnas-as-cancer-biomarkers)
 Alfons Navarro, Lily Yu, Margo Y. Chen.
 Translational Cancer Research. Posted On 2024-07-08.
 
