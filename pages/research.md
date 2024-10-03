@@ -15,10 +15,13 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
+-[Selection of the Most Suitable Culture Medium for Patient-Derived Lung Cancer Organoids.](https://karger.com/cto/article/doi/10.1159/000541274/912835/Selection-of-the-Most-Suitable-Culture-Medium-for)
+M Acosta-Plasencia, Y He,  D Martínez,  JP Orozco,  A Carrasco, A Altuna-Coy, T Yang, T Díaz, L Molins, R Ramos, RM Marrades,  A Navarro.
+Cells Tissues Organs. 2024 September 5:1-21. 
+
 -[Discovering genes and microRNAs involved in human lung development unveils IGFBP3/miR-34a dynamics and their relevance for alveolar differentiation.](https://stemcellres.biomedcentral.com/articles/10.1186/s13287-024-03883-1)
 M Acosta-Plasencia, JJ Castellano, T Diaz, Y He, RM Marrades, A Navarro.
 Stem Cell Research & Therapy. 2024 August 26;15(1):263. 
-
 
 -[Analysis of tumor-draining vein secretome: A direct access to tumor-derived extracellular vesicles in surgical lung cancer patients.](https://doi.org/10.32604/biocell.2023.027718)
 Y He, D Sanchez-Lorente, M Acosta-Plasencia, ..., A Navarro.
@@ -93,6 +96,11 @@ Pharmacogenomics vol. 10, num. 3.
 M Monzo, A Navarro.
 Pharmacogenomics vol. 10, num. 3. 
 
+#### Interviews
+
+-[Interview with Dr. Alfons Navarro: non-coding RNAs as cancer biomarkers.] (https://tcr.amegroups.org/post/view/interview-with-dr-alfons-navarro-non-coding-rnas-as-cancer-biomarkers)
+Alfons Navarro, Lily Yu, Margo Y. Chen.
+Translational Cancer Research. Posted On 2024-07-08.
 
 #### MicroRNAs
 
