@@ -5,6 +5,18 @@ title: News
 
 #### News
 
+
+- 08/07/2024 - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
+<p>
+<img data-u="image" src="../assets/img/interview.png" alt="Interview with Dr. Alfons Navarro" width="500" height="300"/>
+</p>
+<p>
+	See the complete interview [here](https://tcr.amegroups.org/post/view/interview-with-dr-alfons-navarro-non-coding-rnas-as-cancer-biomarkers)
+</p>
+<p>
+</p>
+
+
 - 14/03/2024 - Thesis defense of José Carlos Benítez Montañez. 
 <p>
 <img data-u="image" src="../assets/img/tesis_benitez.png" alt="Thesis defense Dr. Benitez, picture with the thesis committee" width="500" height="300"/>
