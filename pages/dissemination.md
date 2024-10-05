@@ -15,6 +15,7 @@ title: Dissemination
 	- [The Society for Translational Medicine](#translational)
 	- [International Collaboration and Exchange Program](#icep)
 - [FORCES project - Promotion of educational research in secondary education](#forces)
+- [Participation as a committee member for Student Research Awards](#premis)
 - [Internationalization](#internationalization)
 	- [Special issues](#special)
 
@@ -173,6 +174,19 @@ We have supervised the following students under FORCES innvoation project:
 		1.  [Certamen Atenea 2021 de treballs de recerca de 2n de batxillerat](https://serveiseducatius.xtec.cat/vallesoccidental8/general/certamen-atenea-2021-de-treballs-de-recerca-de-2n-de-batxillerat/)
 
 [Back to Top](#top)
+
+<a name="premis"></a>
+<br/>
+
+## Participation as a committee member for Student Research Awards 
+
+Our PI participated in the commitee for the selection of the best Final degree project of the [Gemma Rosell i Romero Award](https://www.premigemmarr.com) (XVII Research Award for students).
+
+<a href="https://www.premigemmarr.com/" rel="Gemma Rosell i Romero Award">![Logo Gemma Rosell i Romero Award]({{site.base.url}}/assets/img/GemmaRosell.png){:height="60%" width="60%"}</a>
+
+
+[Back to Top](#top)
+
 
 <a name="internationalization"></a>
 <br/>
