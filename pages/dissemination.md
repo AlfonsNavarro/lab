@@ -180,7 +180,7 @@ We have supervised the following students under FORCES innvoation project:
 
 ## Participation as a committee member for Student Research Awards 
 
-Our PI participated in the commitee for the selection of the best Final degree project of the [Gemma Rosell i Romero Award](https://www.premigemmarr.com) (XVII Research Award for students).
+Our PI participated in the commitee for the selection of the best Final degree project of the [Gemma Rosell i Romero Award](https://www.premigemmarr.com) (Editions XVI and XVII Research Award for students).
 
 <a href="https://www.premigemmarr.com/" rel="Gemma Rosell i Romero Award">![Logo Gemma Rosell i Romero Award]({{site.base.url}}/assets/img/GemmaRosell.png){:height="60%" width="60%"}</a>
 
