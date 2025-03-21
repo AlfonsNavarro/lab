@@ -58,7 +58,7 @@ html {
       <img src="../assets/img/fotos_people/Alfons_new_short.jpeg" alt="Alfons" style="width:100%">
       <div class="container">
         <h3>Alfons Navarro, PhD</h3>
-        <p class="title">Associate Professor - Principal Investigator</p>
+        <p class="title">Full Professor - Principal Investigator</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/0000-0001-6071-0926">0000-0001-6071-0926</a></p>
         <p>Google Scholar: <a href="https://scholar.google.es/citations?user=xF42u88AAAAJ&hl=es">xF42u88AAAAJ</a></p>
@@ -71,8 +71,8 @@ html {
     <div class="card">
       <img src="../assets/img/fotos_people/Melissa.jpg" alt="Melissa" style="width:100%">
       <div class="container">
-        <h3>Melissa Acosta, MSc</h3>
-        <p class="title">FI-SDUR Fellow</p>
+        <h3>Melissa Acosta, PhD</h3>
+        <p class="title">Assistant Professor</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID:<a href="https://orcid.org/0000-0001-6679-8869">0000-0001-6679-8869</a></p>
         <p>Google Scholar: <a href="">-</a></p>
@@ -204,6 +204,9 @@ html {
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>
+  <li><a href="https://www.linkedin.com/in/melissa-acosta-plasencia-phd-466030153/">Melissa Acosta Plasencia</a>. <em>El eje IGFBP3/miR-34a en la diferenciación alveolar: su relevancia en el desarrollo pulmonar humano y el desarrollo de modelos de organoides derivados de pacientes con cáncer de pulmón para su potencial translación al estudio del desarrollo tumoral</em>(2025). 
+  </li>
+  
   <li><a href="https://es.linkedin.com/in/jose-carlos-benítez-montañez-a5b82213b">José Carlos Benítez Montañez</a>. <em>ARNs no codificantes como biomarcadores predictivos y pronósticos de la quimio-radioterapia neoadyuvante en cáncer de recto</em>(2024). 
     <br><br>
     You can access the thesis <a href="http://hdl.handle.net/10803/691573">here.</a>
