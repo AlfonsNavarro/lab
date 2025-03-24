@@ -15,6 +15,10 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
+-[Diagnostic and Prognostic Value of hsa_piR_022710, hsa_piR_019822, and hsa_piR_020840 in Early-Stage Non-Small-Cell Lung Cancer: Implications for Recurrence and Survival in Squamous Cell Carcinoma Patients](https://www.mdpi.com/1422-0067/26/7/2870)
+Yangyi He, Antonio Altuna-Coy, Melissa Acosta-Plasencia, Laureano Molins, David Sánchez-Lorente, Daniel Martinez, Tania Díaz, Risha Na, Ramón M. Marrades and Alfons Navarro
+Int. J. Mol. Sci. 2025, 26(7), 2870. 
+
 -[Selection of the Most Suitable Culture Medium for Patient-Derived Lung Cancer Organoids.](https://karger.com/cto/article/doi/10.1159/000541274/912835/Selection-of-the-Most-Suitable-Culture-Medium-for)
 M Acosta-Plasencia, Y He,  D Martínez,  JP Orozco,  A Carrasco, A Altuna-Coy, T Yang, T Díaz, L Molins, R Ramos, RM Marrades,  A Navarro.
 Cells Tissues Organs. 2024 September 5:1-21. 
