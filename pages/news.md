@@ -13,7 +13,7 @@ title: News
 
 Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noticies/ja-tenim-les-quinze-imatges-finalistes-del-concurs-de-fotografia-cientifica-de-lidibaps-2025)
 
-
+<hr>
 - <strong>14/03/2024</strong> - Thesis defense of Melissa Acosta Plasencia. 
 <p>
 <img data-u="image" src="../assets/img/tesis_melissa_2.JPG" alt="Thesis defense Dr. Acosta Plasencia, picture with the thesis committee" width="500" height="300"/>
@@ -23,7 +23,7 @@ Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noti
 </p>
 <p>
 </p>
-
+<hr>
 
 - <strong>08/07/2024</strong> - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
 <p>
@@ -54,7 +54,7 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 <img data-u="image" src="../assets/img/thoracic_tumors_funny.png" alt="" width="500" height="300"/>
 </p>
 
-- 11/03/2024 - [XXXV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster about IGFBP3 and its role in alveolar differentiation in human embryonic lungs
+- <strong>11/03/2024</strong> - [XXXV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster about IGFBP3 and its role in alveolar differentiation in human embryonic lungs
 
 <p>
 <img data-u="image" src="../assets/img/melissa_poster_SCB_2024.png" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="300" height="450"/>
@@ -70,9 +70,9 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 <img data-u="image" src="../assets/img/EDBC_2023.jpg" alt="MELISSA ACOSTA IS PRESENTING A POSTER" width="500" height="300"/>
 </p>
 
-- 15/09/2023 - We welcome [Antonio Altuna Coy](https://alfonsnavarro.github.io/lab/pages/people.html), our new posdoctoral researcher in the lab!!!  - Antonio will be working on Extracellular vesicles in Lung cancer. -
+- <strong>15/09/2023</strong> - We welcome [Antonio Altuna Coy](https://alfonsnavarro.github.io/lab/pages/people.html), our new posdoctoral researcher in the lab!!!  - Antonio will be working on Extracellular vesicles in Lung cancer. -
 
-- 05/05/2023 - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
+- <strong>05/05/2023</strong> - Our group has reached an agreement with the Chinese company Dimosi Lifescience & Medical that enables research into proteins that will help in the prognosis and therapy of lung cancer.[See the complete new here.](http://www.fbg.ub.edu/en/news/an-agreement-between-the-ub-and-dimosi-lifescience-medical-enables-research-into-proteins-that-will-help-in-the-prognosis-and-therapy-of-lung-cancer/):
 
 <p>
 <img data-u="image" src="../assets/img/dismosi_agreement.png" alt="Dismosi Agreement" width="500" height="300"/>
