@@ -134,7 +134,6 @@ html {
         </div>
     </div>
   </div>
-</div>
 
 <div class="column">
     <div class="card">
