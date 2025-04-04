@@ -5,6 +5,15 @@ title: News
 
 #### News
 
+- 04/04/2025 - We are finalists in the *IIDIBAPS 2025 Scientific Photography Competition* with this picture:
+
+<p>
+<img data-u="image" src="../assets/img/Footprint_organoid.jpg" alt="Footprint organoid" width="250" height="150"/>
+</p>
+
+Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noticies/ja-tenim-les-quinze-imatges-finalistes-del-concurs-de-fotografia-cientifica-de-lidibaps-2025)
+
+
 
 - 08/07/2024 - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
 <p>
