@@ -5,7 +5,7 @@ title: News
 
 #### News
 
-- 04/04/2025 - We are finalists in the *IIDIBAPS 2025 Scientific Photography Competition* with this picture:
+- <strong>04/04/2025</strong> - We are finalists in the *IDIBAPS 2025 Scientific Photography Competition* with this picture:
 
 <p>
 <img data-u="image" src="../assets/img/Footprint_organoid.jpg" alt="Footprint organoid" width="250" height="150"/>
@@ -14,7 +14,7 @@ title: News
 Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noticies/ja-tenim-les-quinze-imatges-finalistes-del-concurs-de-fotografia-cientifica-de-lidibaps-2025)
 
 
-- 14/03/2024 - Thesis defense of Melissa Acosta Plasencia. 
+- <strong>14/03/2024</strong> - Thesis defense of Melissa Acosta Plasencia. 
 <p>
 <img data-u="image" src="../assets/img/tesis_melissa_2.JPG" alt="Thesis defense Dr. Acosta Plasencia, picture with the thesis committee" width="500" height="300"/>
 </p>
