@@ -45,6 +45,20 @@ html {
   color: grey;
 }
 
+
+.image-container {
+    width: 225px;
+    height: 150px;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+}
+.image-container img {
+    width: 100%;
+    height: auto;
+}
+
+
 </style>
 </head>
 <body>
