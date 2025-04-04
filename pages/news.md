@@ -25,7 +25,7 @@ Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noti
 </p>
 
 
-- 08/07/2024 - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
+- <strong>08/07/2024</strong> - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
 <p>
 <img data-u="image" src="../assets/img/interview.png" alt="Interview with Dr. Alfons Navarro" width="500" height="600"/>
 </p>
@@ -36,7 +36,7 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 </p>
 
 
-- 14/03/2024 - Thesis defense of José Carlos Benítez Montañez. 
+- <strong>14/03/2024</strong> - Thesis defense of José Carlos Benítez Montañez. 
 <p>
 <img data-u="image" src="../assets/img/tesis_benitez.png" alt="Thesis defense Dr. Benitez, picture with the thesis committee" width="500" height="300"/>
 </p>
@@ -48,7 +48,7 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 
 
 
-- 12/03/2024 - Today we took the photo of the [Thoracic Oncology Unit.](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research) What great people! 
+- <strong>12/03/2024</strong> - Today we took the photo of the [Thoracic Oncology Unit.](https://www.clinicbarcelona.org/en/unit/tumores-toracicos/research) What great people! 
 
 <p>
 <img data-u="image" src="../assets/img/thoracic_tumors_funny.png" alt="" width="500" height="300"/>
@@ -61,9 +61,9 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 </p>
 
 
-- 14/03/2024 - Finally we have date for the Thesis defense of José Carlos Benitez. If you are interested in non-coding RNAs in rectal cancer come to the Room 14 of Faculty of Medicine and Health Sciences on 14/03 at 12h.
+- <strong>14/03/2024</strong> - Finally we have date for the Thesis defense of José Carlos Benitez. If you are interested in non-coding RNAs in rectal cancer come to the Room 14 of Faculty of Medicine and Health Sciences on 14/03 at 12h.
 
-- 27/09/2023 - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from [ICEP](https://www.internationalcollaborationexchange.org) program, Philipp Menauer also attended to the congress.
+- <strong>27/09/2023</strong> - [EUROPEAN DEVELOPMENTAL BIOLOGY CONGRESS 2023](https://registrations.hg3conferences.co.uk/hg3/frontend/reg/thome.csp?pageID=89188&ef_sel_menu=1846&eventID=236)  - Melissa Acosta presented a Poster. Our visiting Scholar from [ICEP](https://www.internationalcollaborationexchange.org) program, Philipp Menauer also attended to the congress.
 
 
 <p>
@@ -79,7 +79,7 @@ See the complete interview [here](https://tcr.amegroups.org/post/view/interview-
 </p>
 
 
-- 01/04/2023 - We were asked to design the cover image of Biocell journal after acceptance of our [Viewpoint](https://www.techscience.com/biocell/v47n5/52280) about tumor-draining vein and extracellular vesicles in lung cancer:
+- <strong>01/04/2023</strong> - We were asked to design the cover image of Biocell journal after acceptance of our [Viewpoint](https://www.techscience.com/biocell/v47n5/52280) about tumor-draining vein and extracellular vesicles in lung cancer:
 
 <p>
 <img data-u="image" src="../assets/img/biocell_cover.png" alt="Biocell journal cover" width="300" height="450"/>
@@ -89,7 +89,7 @@ Please see our Viewpoint [here](https://www.techscience.com/biocell/v47n5/52280)
 
 
 
-- 03/02/2023 - We are participating in the *IDIBAPS Scientific Photo Contest, edition 2023* with this picture:
+- <strong>03/02/2023</strong> - We are participating in the *IDIBAPS Scientific Photo Contest, edition 2023* with this picture:
 
 <p>
 <img data-u="image" src="../assets/img/arbol_vida.png" alt="arbol de la vida" width="250" height="150"/>
@@ -97,7 +97,7 @@ Please see our Viewpoint [here](https://www.techscience.com/biocell/v47n5/52280)
 
 Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0ecIZARWrnAOSehKI4lGiClxSQuOCmxi40G9eKDLu-8ajyHQbZ9_Mrg?pli=1&key=cTJpa1hfbDc5VWJxeUtqYW1ZYXczVnJzLUtCS1R3)
 
-- 02/23/2023 - [Thesis defense of Bing Han](https://www.ub.edu/portal/web/dp-cirurgiaespecialitats/detall-novetats/-/detall/defensa-de-tesis-del-dr-bing-han)
+- <strong>02/23/2023</strong> - [Thesis defense of Bing Han](https://www.ub.edu/portal/web/dp-cirurgiaespecialitats/detall-novetats/-/detall/defensa-de-tesis-del-dr-bing-han)
 <p>
 <img data-u="image" src="../assets/img/tesis_bing.jpeg" alt="The people in the photo are: (from right to left) thesis committee: Dr. Marc Campayo, Dr. Isabel Moreno and Dr. Albert Biete. Dr. Bing Han and the directors of the thesis: Dr. Laureano Molins and Dr. Alfons Navarro and Dr. Mariano Monzó, emeritus professor of the Department." width="500" height="300"/>
 </p>
@@ -108,7 +108,7 @@ Please vote our Picture [here](https://photos.google.com/share/AF1QipPfFjb-HJX0e
 </p>
 
 
-- 02/10/2023 - [XXXIV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxiv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster
+- <strong>02/10/2023</strong> - [XXXIV DEVELOPMENTAL BIOLOGY MEETING](https://scb.iec.cat/xxxiv-jornada-de-biologia-del-desenvolupament/)  - Melissa Acosta presented a Poster
 
 
 <p>
