@@ -14,6 +14,16 @@ title: News
 Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noticies/ja-tenim-les-quinze-imatges-finalistes-del-concurs-de-fotografia-cientifica-de-lidibaps-2025)
 
 
+- 14/03/2024 - Thesis defense of Melissa Acosta Plasencia. 
+<p>
+<img data-u="image" src="../assets/img/tesis_melissa_2.jpg" alt="Thesis defense Dr. Acosta Plasencia, picture with the thesis committee" width="500" height="300"/>
+</p>
+<p>
+	The people in the photo are: (from right to left) thesis committee: Dr. Elena Gallardo (Hospital Alvaro Cunqueiro), Dr. Agustí Barnadas (Hospital de Sant Pau), Melissa Acosta (PhD Student); Dr. Bernat Gel (Germans Trias i Pujol Research Institute - IGTP);  and the director of the thesis: Dr. Alfons Navarro.
+</p>
+<p>
+</p>
+
 
 - 08/07/2024 - Published in Translational Cancer Research and interview with Dr. Alfons Navarro. 
 <p>
