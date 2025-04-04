@@ -136,6 +136,22 @@ html {
   </div>
 </div>
 
+<div class="column">
+    <div class="card">
+      <img src="../assets/img/fotos_people/Yi_Liu.JPG" alt="Yi" style="width:100%">
+      <div class="container">
+        <h3>Yi Liu, MD</h3>
+        <p class="title">PhD Student</p>
+        <p>Human Anatomy and Embriology Unit</p>
+        <p>ORCID: <a href="https://orcid.org/"></a>.</p>
+        <p>Google Scholar: <a href="">-</a></p>
+        <p></p>
+        </div>
+    </div>
+  </div>
+</div>
+
+
 <h2 id="clinical-collaborators">Clinical col·laborators</h2>
 <h4>
 <ul>
