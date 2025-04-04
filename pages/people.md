@@ -45,20 +45,6 @@ html {
   color: grey;
 }
 
-
-.image-container {
-    width: 225px;
-    height: 150px;
-    overflow: hidden;
-    text-align: center;
-    margin: 0 auto;
-}
-.image-container img {
-    width: 100%;
-    height: auto;
-}
-
-
 </style>
 </head>
 <body>
@@ -107,7 +93,8 @@ html {
         </div>
     </div>
   </div>
-
+</div>
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="../assets/img/fotos_people/tania.jpg" alt="Tania" style="width:100%">
@@ -148,7 +135,8 @@ html {
         </div>
     </div>
   </div>
-
+</div>
+<div class="row">
 <div class="column">
     <div class="card">
       <img src="../assets/img/fotos_people/Yi_Liu.JPG" alt="Yi" style="width:100%">
