@@ -88,7 +88,7 @@ html {
         <p class="title">Posdoctoral researcher</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID:<a href="https://orcid.org/0000-0001-6544-3759">0000-0001-6544-3759</a></p>
-        <p>Google Scholar: <a href="">-</a></p>
+        <p>Google Scholar: <a href="https://scholar.google.es/citations?hl=en&user=Mn6tizYAAAAJ">Mn6tizYAAAAJ</a></p>
         <p></p>
         </div>
     </div>
