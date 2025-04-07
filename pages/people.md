@@ -75,7 +75,7 @@ html {
         <p class="title">Assistant Professor</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID:<a href="https://orcid.org/0000-0001-6679-8869">0000-0001-6679-8869</a></p>
-        <p>Google Scholar: <a href="">-</a></p>
+        <p>Google Scholar: <a href="https://scholar.google.es/citations?hl=en&user=HM2WNd0AAAAJ">HM2WNd0AAAAJ</a></p>
         </div>
     </div>
   </div>
@@ -103,7 +103,7 @@ html {
         <p class="title">Lecturer</p>
         <p>Human Anatomy and Embriology Unit</p>
         <p>ORCID: <a href="https://orcid.org/0000-0001-9576-8351">0000-0001-9576-8351</a></p>
-        <p>Google Scholar: <a href="">-</a></p>
+        <p>Google Scholar: <a href="https://scholar.google.es/citations?hl=en&user=gptLgwsAAAAJ">gptLgwsAAAAJ</a></p>
         <p></p>
         </div>
     </div>
@@ -129,7 +129,7 @@ html {
         <h3>Risha Na, MD</h3>
         <p class="title">PhD Student</p>
         <p>Human Anatomy and Embriology Unit</p>
-        <p>ORCID: <a href="https://orcid.org/"></a>.</p>
+        <p>ORCID: <a href="https://orcid.org/0009-0000-5813-3269"></a>0009-0000-5813-3269</p>
         <p>Google Scholar: <a href="">-</a></p>
         <p></p>
         </div>
