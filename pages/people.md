@@ -124,7 +124,7 @@ html {
   </div>
   <div class="column">
     <div class="card">
-      <img src="../assets/img/fotos_people/Risha" alt="Risha" style="width:100%">
+      <img src="../assets/img/fotos_people/Risha.JPEG" alt="Risha" style="width:100%">
       <div class="container">
         <h3>Risha Na, MD</h3>
         <p class="title">PhD Student</p>
