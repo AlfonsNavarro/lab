@@ -15,7 +15,7 @@ html {
 
 .column {
   float: left;
-  width: 25%;
+  width: 33.3%;
   margin-bottom: 8px;
   padding: 0 4px;
 }
@@ -25,7 +25,35 @@ html {
     width: 100%;
     display: block;
   }
+
+  .card {
+    max-width: 95%;
+    margin: 0 auto;
+  }
+
+  .card img {
+    max-height: 200px;
+    object-fit: cover;
+  }
+
+  .container {
+    padding: 8px;
+  }
+
+  .container h3 {
+    font-size: 1.1em;
+    margin: 6px 0;
+  }
+
+  .container p {
+    font-size: 0.9em;
+    margin: 4px 0;
+  }
 }
+
+
+
+
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
