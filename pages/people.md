@@ -32,7 +32,7 @@ html {
   }
 
   .card img {
-    max-height: 200px;
+    max-height: 400px;
     object-fit: cover;
   }
 
