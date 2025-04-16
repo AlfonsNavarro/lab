@@ -5,7 +5,7 @@ title: News
 
 #### News
 
-- <strong>04/04/2025</strong> - We are finalists in the *IDIBAPS 2025 Scientific Photography Competition* with this picture:
+- <strong>04/04/2025</strong> - We are finalists in the *IDIBAPS 2025 Scientific Photography Competition* with this picture of Melissa Acosta:
 
 <p>
 <img data-u="image" src="../assets/img/Footprint_organoid.jpg" alt="Footprint organoid" width="250" height="150"/>
