@@ -16,16 +16,18 @@ Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noti
 <hr>
 
 - <strong>17/03/2025</strong> -On Monday, March 17th, our PI, Dr. Alfons Navarro, participated in the competition for the position of *Full Professor* of Human Anatomy and Embryology. The panel included the distinguished Professors Dr. Alberto Prats (President, UB), Dr. Neus Agell (Secretary, UB), Dr. José Luís Rodríguez Peralto (Member 1, Complutense University of Madrid), Dr. Houria Boulaiz (Member 2, University of Granada), and Dr. Juan Antonio Marchal (Member 3, University of Granada). After three hours of intense and relevant discussion, Dr. Navarro was granted access to the new position. 
-<p>
+<p style="text-align: center;">
 <img data-u="image" src="../assets/img/ejercicio.jpg" alt="Exposition of the research project during the competion" width="250" height="150"/>
 </p>
-<p>
+<p style="text-align: center;">
 <img data-u="image" src="../assets/img/Tribunal_catedra.jpg" alt="Jury of the Full Professor competition" width="250" height="150"/>
 </p>
-<p>
+<p style="text-align: center; color: #555; font-style: italic; margin-top: 6px;">
+	<small>
 	The people in the photo are (from right to left): Dr. J.A. Marchal, Dr. J.J. rodríguez Peralto, Dr. A. Prats, Dr. A. Navarro, Dr. N. Agell and Dr. H. Boulaiz.
+</small>
 </p>
-More information [here](https://www.linkedin.com/feed/update/urn:li:activity:7309497451609006081/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7309497450635976704%2C7318038073634676737)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7318038073634676737%2Curn%3Ali%3AugcPost%3A7309497450635976704))
+More information [here](https://www.linkedin.com/posts/alfons-navarro-2a452970_on-monday-march-17th-i-participated-in-activity-7309497451609006081-ADtb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8HHFwBt6AncOrl1upndr0ULtWTuY_EXDo)
 
 <hr>
 
