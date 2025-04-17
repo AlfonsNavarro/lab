@@ -14,6 +14,24 @@ title: News
 Go to the new in the IDIBAPS page [here](https://www.clinicbarcelona.org/ca/noticies/ja-tenim-les-quinze-imatges-finalistes-del-concurs-de-fotografia-cientifica-de-lidibaps-2025)
 
 <hr>
+
+- <strong>17/03/2025</strong> -On Monday, March 17th, our PI, Dr. Alfons Navarro, participated in the competition for the position of *Full Professor* of Human Anatomy and Embryology. The panel included the distinguished Professors Dr. Alberto Prats (President, UB), Dr. Neus Agell (Secretary, UB), Dr. José Luís Rodríguez Peralto (Member 1, Complutense University of Madrid), Dr. Houria Boulaiz (Member 2, University of Granada), and Dr. Juan Antonio Marchal (Member 3, University of Granada). After three hours of intense and relevant discussion, Dr. Navarro was granted access to the new position. 
+<p>
+<img data-u="image" src="../assets/img/ejercicio.jpg" alt="Exposition of the research project during the competion" width="250" height="150"/>
+</p>
+<p>
+<img data-u="image" src="../assets/img/Tribunal_catedra.jpg" alt="Jury of the Full Professor competition" width="250" height="150"/>
+</p>
+<p>
+	The people in the photo are (from right to left): Dr. J.A. Marchal, Dr. J.J. rodríguez Peralto, Dr. A. Prats, Dr. A. Navarro, Dr. N. Agell and Dr. H. Boulaiz.
+</p>
+More information [here](https://www.linkedin.com/feed/update/urn:li:activity:7309497451609006081/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7309497450635976704%2C7318038073634676737)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7318038073634676737%2Curn%3Ali%3AugcPost%3A7309497450635976704))
+
+<hr>
+
+
+
+
 - <strong>14/03/2024</strong> - Thesis defense of Melissa Acosta Plasencia. 
 <p>
 <img data-u="image" src="../assets/img/tesis_melissa_2.JPG" alt="Thesis defense Dr. Acosta Plasencia, picture with the thesis committee" width="500" height="300"/>
