@@ -32,7 +32,7 @@ desc: Sample Description
 nav-links:
     #Home: ""
     #About: "pages/about.html"
-    News: "pages/news.html"
+    News: "pages/news_prueba.html"
     People: "pages/people.html"
     Research: "pages/research.html"
     Books: "pages/books.html"
