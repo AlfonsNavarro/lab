@@ -5,6 +5,14 @@ title: News
 
 #### News
 
+- <strong>27/06/2025</strong> - We have held the *II Lung Cancer Retreat of the Functional Unit of Thoracic Tumors* at the La Mola Campus in Terrassa. The scientific content has been of a very high level this year. It was organized by the Lung Cancer Chair Hospital Clínic-UB AstraZeneca.
+
+<p style="text-align: center;">
+<img data-u="image" src="../assets/img/II_retreat_lung_cancer.jpg" alt="II_reatret_foto_de_grup" width="250" height="150"/>
+</p>
+<hr>
+
+
 - <strong>04/04/2025</strong> - We are finalists in the *IDIBAPS 2025 Scientific Photography Competition* with this picture of Melissa Acosta:
 
 <p style="text-align: center;">
