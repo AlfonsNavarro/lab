@@ -250,6 +250,9 @@ html {
 <h2 id="phd-alumni">Past PhD Alumni</h2>
 <h4>
 <ul>
+    <li><a href="https://www.linkedin.com/in/yangyi-he-56a5b9259/">Yangyi He</a>. <em>CircRNA and piRNAs as Biomarkers in Non-Small Cell Lung Cancer: Their Role in Tumor Progression and Patient Outcome</em>(2025). 
+     <br><br>
+  </li>
   <li><a href="https://www.linkedin.com/in/melissa-acosta-plasencia-phd-466030153/">Melissa Acosta Plasencia</a>. <em>El eje IGFBP3/miR-34a en la diferenciación alveolar: su relevancia en el desarrollo pulmonar humano y el desarrollo de modelos de organoides derivados de pacientes con cáncer de pulmón para su potencial translación al estudio del desarrollo tumoral</em>(2025). 
      <br><br>
   </li>

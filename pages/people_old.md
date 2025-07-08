@@ -1,3 +1,13 @@
+
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+
 ---
 layout: template1
 title: people
