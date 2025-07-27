@@ -40,7 +40,7 @@ nav-links:
     #Teaching: "pages/teaching.html"
     #Editorial activity: "pages/editorial.html"
     Grants: "pages/grants.html"
-    Lab Fun: "pages/labfun.html"
+    #Lab Fun: "pages/labfun.html"
 # --- Footer options --- #
 
 # If the values are empty, they are ignored 
