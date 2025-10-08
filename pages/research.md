@@ -15,6 +15,10 @@ Below we have included selected papers describing some of our best known work.
 
 #### Last publications
 
+-[Impact of piR_004530 reactivation in lung cancer: implications for recurrence and survival of lung squamous cell carcinoma patients](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-025-04342-1)
+Yangyi He, Melissa Acosta-Plasencia, David Sánchez-Lorente, Nuria Viñolas, Daniel Martinez, Tania Díaz, Antonio Altuna-Coy, Risha Na, Yi Liu, Marc Boada, Angela Guirao, Laureano Molins, Ramón M. Marrades and Alfons Navarro
+BMC Medicine 2025 23:537
+
 -[Diagnostic and Prognostic Value of hsa_piR_022710, hsa_piR_019822, and hsa_piR_020840 in Early-Stage Non-Small-Cell Lung Cancer: Implications for Recurrence and Survival in Squamous Cell Carcinoma Patients](https://www.mdpi.com/1422-0067/26/7/2870)
 Yangyi He, Antonio Altuna-Coy, Melissa Acosta-Plasencia, Laureano Molins, David Sánchez-Lorente, Daniel Martinez, Tania Díaz, Risha Na, Ramón M. Marrades and Alfons Navarro
 Int. J. Mol. Sci. 2025, 26(7), 2870. 
