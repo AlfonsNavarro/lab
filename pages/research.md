@@ -19,8 +19,8 @@ Below we have included selected papers describing some of our best known work.
 Yangyi He, Melissa Acosta-Plasencia, David Sánchez-Lorente, Nuria Viñolas, Daniel Martinez, Tania Díaz, Antonio Altuna-Coy, Risha Na, Yi Liu, Marc Boada, Angela Guirao, Laureano Molins, Ramón M. Marrades and Alfons Navarro. 
 BMC Medicine 2025 23:537
 
-<audio controls style="margin-top:10px;">
-  <source src="Resumen_piR_004530.m4a" type="audio/mp4">
+Brief of the article <audio controls style="margin-top:10px;">
+  <source src="audios/Brief_summary_piR_004530.m4a" type="audio/mp4">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
