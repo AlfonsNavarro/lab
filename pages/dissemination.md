@@ -187,7 +187,7 @@ Our PI participated in the committee for the selection of the best Final Degree 
 - **2023:** The **16th Edition** of the *Research Award for Students* was held on **September 18–20, 2023**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.  
 - **2024:** The **17th Edition** of the *Research Award for Students* was held on **September 17–19, 2024**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.  
 - **2025:** The **18th Edition** of the *Research Award for Students* was held on **September 16–18, 2025**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.
-<p>
+<br/>
 
 <a href="https://www.premigemmarr.com/" rel="Gemma Rosell i Romero Award">![Logo Gemma Rosell i Romero Award]({{site.base.url}}/assets/img/GemmaRosell.png){:height="60%" width="60%"}</a>
 
