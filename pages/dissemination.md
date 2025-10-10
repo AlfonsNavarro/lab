@@ -189,7 +189,11 @@ Our PI participated in the committee for the selection of the best Final Degree 
 - **2025:** The **18th Edition** of the *Research Award for Students* was held on **September 16–18, 2025**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.
 <br/>
 
-<a href="https://www.premigemmarr.com/" rel="Gemma Rosell i Romero Award">![Logo Gemma Rosell i Romero Award]({{site.base.url}}/assets/img/GemmaRosell.png){:height="60%" width="60%"}</a>
+<p align="center">
+  <a href="https://www.premigemmarr.com/" target="_blank" rel="noopener noreferrer">
+    <img src="{{site.base.url}}/assets/img/GemmaRosell.png" alt="Logo Gemma Rosell i Romero Award" width="30%" height="30%">
+  </a>  
+</p>
 
 
 [Back to Top](#top)
