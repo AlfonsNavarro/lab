@@ -222,7 +222,7 @@ Topic Editors: Jian-Guo Zhou, Zhaohui Huang, Ondrej Slaby, and Alfons Navarro.
 
 - [Role of miRNAs in Cancer—Analysis of Their Targetome](https://www.mdpi.com/journal/cancers/special_issues/miRNAs_Cancer). Cancers. Editor: Alfons Navarro.
 
-- [Clinic and Therapeutic Potential of Non-coding RNAs in Cancer](https://tcr.amegroups.org/post/view/clinic-and-therapeutic-potential-of-non-coding-rnas-in-cancer). Tranalational Cancer Research. Editors:Alfons Navarro, Joan Josep Castellano, Marina Díaz-Beyá.
+- [Clinic and Therapeutic Potential of Non-coding RNAs in Cancer](https://tcr.amegroups.org/post/view/clinic-and-therapeutic-potential-of-non-coding-rnas-in-cancer). Translational Cancer Research. Editors:Alfons Navarro, Joan Josep Castellano, Marina Díaz-Beyá.
 
 - [Role of Non-coding RNAs in Colorectal Cancer](https://www.mdpi.com/journal/gastrointestdisord/special_issues/ncrna_cc). Gastrointestinal Disorders. Editors: Alfons Navarro, Tania Díaz sánchez.
 
