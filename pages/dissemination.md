@@ -15,7 +15,7 @@ title: Dissemination
 	- [The Society for Translational Medicine](#translational)
 	- [International Collaboration and Exchange Program](#icep)
 - [FORCES project - Promotion of educational research in secondary education](#forces)
-- [Participation as a committee member for Student Research Awards](#premis)
+- [Participation as a Committee member for Student Research Awards](#premis)
 - [Internationalization](#internationalization)
 	- [Special issues](#special)
 
@@ -178,7 +178,7 @@ We have supervised the following students under FORCES innvoation project:
 <a name="premis"></a>
 <br/>
 
-## Participation as a committee member for Student Research Awards 
+## Participation as a Committee member for Student Research Awards 
 
 ### Participation in the Gemma Rosell i Romero Award Committee
 
@@ -186,8 +186,7 @@ Our PI participated in the committee for the selection of the best Final Degree 
 
 - **2023:** The **16th Edition** of the *Research Award for Students* was held on **September 18–20, 2023**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.  
 - **2024:** The **17th Edition** of the *Research Award for Students* was held on **September 17–19, 2024**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.  
-- **2025:** The **18th Edition** of the *Research Award for Students* will be held on *[dates to be confirmed]*, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.n 16, 17, and 18th of September of 2025 at Faculty of Medicine and Health Sciences of UB.
-
+- **2025:** The **18th Edition** of the *Research Award for Students* was held on **September 16–18, 2025**, at the *Faculty of Medicine and Health Sciences*, **University of Barcelona**.
 <p>
 
 <a href="https://www.premigemmarr.com/" rel="Gemma Rosell i Romero Award">![Logo Gemma Rosell i Romero Award]({{site.base.url}}/assets/img/GemmaRosell.png){:height="60%" width="60%"}</a>
