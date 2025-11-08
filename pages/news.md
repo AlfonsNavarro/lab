@@ -5,6 +5,23 @@ title: News
 
 #### News
 
+- <strong>07/11/2025</strong> - Excited to share that our research project has been awarded one of the *La Marato 2024* Research Grants!. 
+<p>Our project — “Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic process of NSCLC. 
+<p> More info [here](https://www.3cat.cat/tv3/marato/la-fundacio-financa-60-equips-de-recerca-en-malalties-respiratories/noticia/3378988/)
+
+<p style="text-align: center;">
+<img data-u="image" src="../assets/img/Marato_2024.jpg" alt="Image Log Marato TV3 2024" width="250" height="150"/>
+</p>
+<hr>
+
+
+- <strong>04/04/2025</strong> - We are finalists in the *IDIBAPS 2025 Scientific Photography Competition* with this picture of Melissa Acosta:
+
+<p style="text-align: center;">
+<img data-u="image" src="../assets/img/Footprint_organoid.jpg" alt="Footprint organoid" width="250" height="150"/>
+</p>
+
+
 - <strong>27/06/2025</strong> - We have held the *II Lung Cancer Retreat of the Functional Unit of Thoracic Tumors* at the La Mola Campus in Terrassa. The scientific content has been of a very high level this year. It was organized by the Lung Cancer Chair Hospital Clínic-UB AstraZeneca.
 
 <p style="text-align: center;">
