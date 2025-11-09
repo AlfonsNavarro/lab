@@ -26,7 +26,7 @@ Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic pr
 	</tr>
 </table>
     <a href="https://www.3cat.cat/tv3/marato/la-fundacio-financa-60-equips-de-recerca-en-malalties-respiratories/noticia/3378988/">
-	<img data-u="image" src="../assets/img/Marato_2024.jpg"/>
+	<img data-u="image" src="../assets/logos/logo-fundacio30_normal.jpg"/>
       </a>
 </div>
 
