@@ -5,6 +5,33 @@ title: Grants
 
 ### Current projects
 
+
+<div class="jumbotron">
+    <p> 
+Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic process of NSCLC.
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Alfons Navarro</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; </td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 01/01/2026 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 31/12/2028</td>
+	</tr>
+</table>
+    <a href="https://www.3cat.cat/tv3/marato/la-fundacio-financa-60-equips-de-recerca-en-malalties-respiratories/noticia/3378988/">
+	<img data-u="image" src="../assets/img/Marato_2024.jpg"/>
+      </a>
+</div>
+
+
+
 <div class="jumbotron">
     <p> 
 Generación de organoides tumorales a partir de células tumorales circulantes aisladas de la vena pulmonar que drena del tumor en pacientes quirúrgicos con cáncer de pulmón.
