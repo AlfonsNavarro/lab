@@ -29,7 +29,7 @@ Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic pr
 	</tr>
 </table>
     <a href="https://www.3cat.cat/tv3/marato/la-fundacio-financa-60-equips-de-recerca-en-malalties-respiratories/noticia/3378988/">
-	<img data-u="image" src="../assets/logos/logo-fundacio30_normal.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo-fundacio30_normal.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
 </div>
 
@@ -59,22 +59,22 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 	<tr>
 		<td>
     <a href="https://www.aei.gob.es">
-	<img data-u="image" src="../assets/logos/logo_CPP.jpg"/>
+	<img data-u="image" src="../assets/logos/logo_CPP.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   <td>
     <a href="https://yikongenomics.com">
-	<img data-u="image" src="../assets/logos/logo_Yikon.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_Yikon.jpeg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   <td>
     <a href="https://www.institutobernabeu.com">
-	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   <td>
     <a href="www.ub.edu">
-	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:50px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   </tr>
