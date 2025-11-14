@@ -40,7 +40,7 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 
 <table>
 	<tr>
-		<td><b>Funding Agency: </b></td> <td></td><td>&nbsp; PROYECTOS DE COLABORACIÓN PÚBLICO-PRIVADA, Ministerio de Ciencia, Innovación y Universidades, AEI, Cofinanciado por la Unión Europea</td>
+		<td><b>Funding Agency: </b></td> <td></td><td>&nbsp;PROYECTOS DE COLABORACIÓN PÚBLICO-PRIVADA, Ministerio de Ciencia, Innovación y Universidades, AEI, Cofinanciado por la Unión Europea</td>
 	</tr>
 	<tr>
 		<td><b>Project leaders:  </b></td> <td></td><td>&nbsp; Bing Han (Yikon Genomics, S.L.); Belén Lledó (Instituto Bernabeu, S.L.); Alfons Navarro (UB)</td>
@@ -57,22 +57,22 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 </table>
 <table>
 	<tr>
-		<td>
+		<td>&nbsp;
     <a href="https://www.aei.gob.es">
 	<img data-u="image" src="../assets/logos/logo_CPP.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
-  <td>
+  <td>&nbsp;
     <a href="https://yikongenomics.com">
 	<img data-u="image" src="../assets/logos/logo_Yikon.jpeg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
-  <td>
+  <td>&nbsp;
     <a href="https://www.institutobernabeu.com">
 	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
-  <td>
+  <td>&nbsp;
     <a href="www.ub.edu">
 	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:150px; height:auto; vertical-align:middle;"/>
       </a>
