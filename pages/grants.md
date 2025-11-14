@@ -29,7 +29,7 @@ Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic pr
 	</tr>
 </table>
     <a href="https://www.3cat.cat/tv3/marato/la-fundacio-financa-60-equips-de-recerca-en-malalties-respiratories/noticia/3378988/">
-	<img data-u="image" src="../assets/logos/logo-fundacio30_normal.jpg" style="width:80px; height:auto; vertical-align:middle;/>
+	<img data-u="image" src="../assets/logos/logo-fundacio30_normal.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
       </a>
 </div>
 
@@ -43,13 +43,7 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 		<td><b>Funding Agency: </b></td> <td></td><td>&nbsp; PROYECTOS DE COLABORACIÓN PÚBLICO-PRIVADA, Ministerio de Ciencia, Innovación y Universidades, AEI, Cofinanciado por la Unión Europea</td>
 	</tr>
 	<tr>
-		<td><b>Project leader for Yikon Genomics S.L.: </b></td> <td></td><td>&nbsp; Bing Han</td>
-	</tr>
-	<tr>
-		<td><b>Project leader for Instituto Bernabeu, S.L.: </b></td> <td></td><td>&nbsp; Belén Lledó</td>
-	</tr>
-	<tr>
-		<td><b>Project leader for UB: </b></td> <td></td><td>&nbsp; Alfons Navarro</td>
+		<td><b>Project leaders:  </b></td> <td></td><td>&nbsp; Bing Han (Yikon Genomics, S.L.); Belén Lledó (Instituto Bernabeu, S.L.); Alfons Navarro (UB)</td>
 	</tr>
 	<tr>
 		<td><b>Code: </b></td><td></td> <td>&nbsp;CPP2024-011546 </td>
@@ -70,17 +64,17 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
   </td>
   <td>
     <a href="https://yikongenomics.com">
-	<img data-u="image" src="../assets/logos/logo_Yikon.jpg" style="width:80px; height:auto; vertical-align:middle;/>
+	<img data-u="image" src="../assets/logos/logo_Yikon.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   <td>
     <a href="https://www.institutobernabeu.com">
-	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:80px; height:auto; vertical-align:middle;/>
+	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:50px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   <td>
     <a href="www.ub.edu">
-	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:80px; height:auto; vertical-align:middle;/>
+	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:50px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   </tr>
