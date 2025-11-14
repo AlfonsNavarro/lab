@@ -55,36 +55,10 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 		<td><b>End date: </b></td><td></td> <td>&nbsp; 31/11/2027</td>
 	</tr>
 </table>
-<table>
-	<tr>
-		<td>&nbsp;
     <a href="https://www.aei.gob.es">
 	<img data-u="image" src="../assets/logos/logo_CPP.jpg" style="width:300px; height:auto; vertical-align:middle;"/>
       </a>
-  </td>
-</tr>
-<tr>
-  <td>&nbsp;
-    <a href="https://yikongenomics.com">
-	<img data-u="image" src="../assets/logos/logo_Yikon.jpeg" style="width:300px; height:auto; vertical-align:middle;"/>
-      </a>
-  </td>
-  <tr>
-  <td>&nbsp;
-    <a href="https://www.institutobernabeu.com">
-	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:300px; height:auto; vertical-align:middle;"/>
-      </a>
-  </td>
-</tr>
-<tr>
-  <td>&nbsp;
-    <a href="www.ub.edu">
-	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:300px; height:auto; vertical-align:middle;"/>
-      </a>
-  </td>
-  </tr>
-  </table>
-</div>
+  </div>
 
 <div class="jumbotron">
     <p> 
