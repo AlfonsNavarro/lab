@@ -19,7 +19,7 @@ Implication of IGFBP3 in the regulation of lung stem cells in the tumorigenic pr
 		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Alfons Navarro</td>
 	</tr>
 	<tr>
-		<td><b>Code: </b></td><td></td> <td>&nbsp; </td>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; 202524-10</td>
 		</tr>
 	<tr>
 		<td><b>Start date: </b></td><td></td> <td>&nbsp; 01/01/2026 </td>
@@ -59,22 +59,27 @@ Advancing assisted reproduction: unveiling the future of IVF through a new non-i
 	<tr>
 		<td>&nbsp;
     <a href="https://www.aei.gob.es">
-	<img data-u="image" src="../assets/logos/logo_CPP.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_CPP.jpg" style="width:300px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
+</tr>
+<tr>
   <td>&nbsp;
     <a href="https://yikongenomics.com">
-	<img data-u="image" src="../assets/logos/logo_Yikon.jpeg" style="width:150px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_Yikon.jpeg" style="width:300px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
+  <tr>
   <td>&nbsp;
     <a href="https://www.institutobernabeu.com">
-	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:150px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_IB.jpg" style="width:300px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
+</tr>
+<tr>
   <td>&nbsp;
     <a href="www.ub.edu">
-	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:150px; height:auto; vertical-align:middle;"/>
+	<img data-u="image" src="../assets/logos/logo_UB.png" style="width:300px; height:auto; vertical-align:middle;"/>
       </a>
   </td>
   </tr>
