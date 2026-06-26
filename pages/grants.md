@@ -5,6 +5,54 @@ title: Grants
 
 ### Current projects
 
+<div class="jumbotron">
+    <p> 
+Reexpresión aberrante del gen meiótico SIX6OS1 en cáncer:
+implicaciones en células madre y análisis funcional mediante organoides tumorales.  
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Alfons Navarro</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR inv393_2025</td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 06/06/2026 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 05/06/2029</td>
+	</tr>
+</table>
+    <a href="https://www.separ.es">
+	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
+      </a>
+</div>
+
+<div class="jumbotron">
+    <p> 
+Utilidad de las muestras citológicas obtenidas mediante ECOBRONCOSCOPIA en la génesis de organoides de pacientes con cáncer de pulmón: identificación de biomarcadores y predicción de respuesta terapéutica.
+</p> 
+
+<table>
+	<tr>
+		<td><b>Project leader: </b></td> <td></td><td>&nbsp; Ramón M. Marrades</td>
+	</tr>
+	<tr>
+		<td><b>Code: </b></td><td></td> <td>&nbsp; SEPAR inv411_2025</td>
+		</tr>
+	<tr>
+		<td><b>Start date: </b></td><td></td> <td>&nbsp; 06/06/2026 </td>
+		</tr>
+	<tr>
+		<td><b>End date: </b></td><td></td> <td>&nbsp; 05/06/2029</td>
+	</tr>
+</table>
+    <a href="https://www.separ.es">
+	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
+      </a>
+</div>
 
 <div class="jumbotron">
     <p> 
@@ -84,6 +132,7 @@ Generación de organoides tumorales a partir de células tumorales circulantes a
       </a>
 </div>
 
+### Previous projects
 
 <div class="jumbotron">
     <p> 
@@ -134,8 +183,6 @@ Estudio de la aplicabilidad clínica del cultivo de organoides en estadios inici
       </a>
 </div>
 
-
-### Previous projects
 
 <div class="jumbotron">
     <p> 
