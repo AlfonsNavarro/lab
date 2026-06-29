@@ -26,7 +26,7 @@ implicaciones en células madre y análisis funcional mediante organoides tumora
 	</tr>
 </table>
     <a href="https://www.separ.es">
-	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
+	<img data-u="image" src="../assets/logos/separ_logo_nuevo.jpg"/>
       </a>
 </div>
 
@@ -50,7 +50,7 @@ Utilidad de las muestras citológicas obtenidas mediante ECOBRONCOSCOPIA en la g
 	</tr>
 </table>
     <a href="https://www.separ.es">
-	<img data-u="image" src="../assets/logos/SEPAR.jpeg"/>
+	<img data-u="image" src="../assets/logos/separ_logo_nuevo.jpg"/>
       </a>
 </div>
 
